@@ -17,14 +17,7 @@ From bold landing pages to smooth dashboards, I focus on design that feels good 
   <a href="https://bilal-profile.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://your-blog-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog_Posts-blueviolet?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:infobilalmalik03@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Contact_Me-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ 
 </p>
 
 <hr>
