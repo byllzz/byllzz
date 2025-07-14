@@ -36,19 +36,35 @@ From bold landing pages to smooth dashboards, I focus on design that feels good 
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://github.com/bilalmalik04" target="_blank">
-    <img alt="GitHub" style="height:32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+  <!-- GitHub -->
+  <a href="https://github.com/byllzz" target="_blank">
+    <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="32" />
   </a>&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img alt="LinkedIn" style="height:32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/BilalAzeem" target="_blank">
+    <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" height="32" />
   </a>&nbsp;&nbsp;
+
+  <!-- Twitter / X -->
   <a href="https://x.com/byllzzz" target="_blank">
-    <img alt="Twitter" style="height:32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+    <img alt="X (Twitter)" src="https://skillicons.dev/icons?i=twitter" height="32" />
   </a>&nbsp;&nbsp;
+
+  <!-- Gmail -->
   <a href="mailto:infobilalmalik03@gmail.com" target="_blank">
-    <img alt="Gmail" style="height:32px;" src="https://img.icons8.com/color/48/gmail--v1.png" />
+    <img alt="Gmail" src="https://img.icons8.com/color/48/gmail--v1.png" height="32" />
+  </a>&nbsp;&nbsp;
+
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/bylzz" target="_blank">
+    <img alt="Instagram" src="https://skillicons.dev/icons?i=instagram" height="32" />
   </a>
+
 </p>
+
 <br><br>
 
 <!-- Tech Stack Button -->
@@ -68,7 +84,7 @@ From bold landing pages to smooth dashboards, I focus on design that feels good 
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 
-<br><br>
+
 
 <!-- Row 2 -->
 <img src="https://img.icons8.com/color/48/tailwind_css.png" height="40" alt="Tailwind CSS" />
@@ -77,7 +93,6 @@ From bold landing pages to smooth dashboards, I focus on design that feels good 
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 
-<br><br>
 
 <!-- Row 3 -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
