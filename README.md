@@ -84,7 +84,7 @@ From bold landing pages to smooth dashboards, I focus on design that feels good 
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 
-
+</br>
 
 <!-- Row 2 -->
 <img src="https://img.icons8.com/color/48/tailwind_css.png" height="40" alt="Tailwind CSS" />
@@ -93,7 +93,7 @@ From bold landing pages to smooth dashboards, I focus on design that feels good 
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 
-
+</br>
 <!-- Row 3 -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 &nbsp;&nbsp;
