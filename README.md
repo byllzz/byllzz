@@ -5,20 +5,21 @@
 
 <hr>
 
-# Hey, I’m Bilal  
-**Frontend Developer | UI/UX Designer | Digital Artist**
+<h1 align="center">Hey, I’m Bilal (bylzz)</h1>
+<h3 align="center"><strong>Frontend Developer • UI/UX Designer • Digital Artist</strong></h3>
 
-I don’t just build websites — I craft clean, fast, and visually rich experiences.  
-From bold landing pages to smooth dashboards, I focus on design that feels good and works even better.
+<p align="center">
+  I don’t just build websites — I craft fast, clean, and emotionally resonant digital experiences.  
+  Whether it’s bold landing pages or smooth dashboards, I design with precision and code with purpose.
+</p>
+
 <br>
 
-<!-- Info Buttons Row -->
-<p align="left">
+<!-- 🔗 Info Buttons -->
+<p align="center">
   <a href="https://bilal-profile.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
- 
-</p>
 
 <hr>
 
