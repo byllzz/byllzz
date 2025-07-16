@@ -1,31 +1,9 @@
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61EDD6&center=true&vCenter=true&width=600&lines=Building+-+Designing+-+Creating" alt="Typing Animation" />
-</p>
-
-<hr>
-
-<h1 align="left">Hey, I’m Bilal (bylzz)</h1>
-<h3 align="left"><strong>Frontend Developer • UI/UX Designer • Digital Artist</strong></h3>
-
-<p align="left">
-  I don’t just build websites — I craft fast, clean, and emotionally resonant digital experiences.  
-  Whether it’s bold landing pages or smooth dashboards, I design with precision and code with purpose.
-</p>
-
-<br>
-
-<!-- 🔗 Info Buttons -->
-<p align="left">
-  <a href="https://bilal-profile.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
-<hr>
-
 <!-- PROFILE VIEWS COUNTER -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=byllzz&label=Profile%20views&color=8000ff&style=flat" alt="Profile Views" />
+   <a href="https://bilal-profile.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 <br>
