@@ -1,6 +1,5 @@
 <!-- PROFILE VIEWS COUNTER -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=byllzz&label=Profile%20views&color=8000ff&style=flat" alt="Profile Views" />
    <a href="https://bilal-profile.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -10,6 +9,8 @@
 
 <!-- Found Me Button -->
 <p align="left">
+   <img src="https://komarev.com/ghpvc/?username=byllzz&label=Profile%20views&color=8000ff&style=flat" alt="Profile Views" />
+  <br>
   <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/found-me-btn.svg" alt="Found Me Button" />
 </p>
 
