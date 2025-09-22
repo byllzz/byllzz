@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- Typing + Slow Deleting Effect with Quotes (Fira Code Font, Instant Restart) -->
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=20&duration=5200&pause=0&color=9a80f8&center=true&vCenter=true&width=800&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22&letterSpacing=2&deleteSpeed=150" />
+  </a>
+</p>
+---
 
-<!--
-**byllzz/byllzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=byllzz&label=Profile%20views&color=blueviolet&style=flat)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Stats](https://github-readme-stats.vercel.app/api?username=byllzz&show_icons=false&theme=dark&count_private=true)
+
+![Grade](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=byllzz&theme=dark)
+
+---
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byllzz&layout=compact&theme=dark)
+
+---
+
+![Repo](https://github-contributor-stats.vercel.app/api?username=byllzz&limit=2&theme=dark&combine_all_yearly_contributions=true)
+
