@@ -44,7 +44,7 @@
 </br>
 
 <!--Tech Stack Banner -->
-  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner4.png" alt="banner4" title="My Skills" /> </br>
+  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner4.png" alt="banner4" title="My Skills" width="137px" height="33px" /> </br>
 <!-- 🚀 Tech Logos -->
 <p align="left">
 
