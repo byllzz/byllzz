@@ -4,6 +4,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=20&duration=5200&pause=0&color=9a80f8&center=true&vCenter=true&width=800&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22&letterSpacing=2&deleteSpeed=150" />
   </a>
 </p>
+<hr>
+<!--About me Banner -->
+  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner2.png" alt="banner2" title="About Me" />
 
 <!--Find me Banner -->
   <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner1.png" alt="banner1" title="Find Me" />
