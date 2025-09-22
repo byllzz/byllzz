@@ -9,10 +9,10 @@
   <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner2.png" alt="banner2" title="About Me" />
 </br>
 <!-- Short Intro -->
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="200px" valign="top">
-      <img src="https://i.imgur.com/zY6P3Rq.png" width="200px" height="250px"/>
+      <img src="https://i.imgur.com/zY6P3Rq.png" width="200px" height="250px" style="border: none;"/>
     </td>
     <td>
       👋 Hi, I’m A ...</br>
@@ -23,6 +23,7 @@
     </td>
   </tr>
 </table>
+
 
 <!--Find me Banner -->
   <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner1.png" alt="banner1" title="Find Me" />
