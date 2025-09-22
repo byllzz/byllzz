@@ -12,7 +12,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="200px" valign="top">
-      <img src="https://i.imgur.com/zY6P3Rq.png" width="200px" height="250px" style="border: none;"/>
+      <img src="https://i.imgur.com/zY6P3Rq.png" width="200px" height="250px"/>
     </td>
     <td>
       👋 Hi, I’m A ...</br>
