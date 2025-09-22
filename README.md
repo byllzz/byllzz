@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner5.png" alt="banner5" title="About Me" width="140px" height="40px" /> -->
 
 <!--Find me Banner -->
-  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner9.png" alt="banner9" title="Find Me" width="160px" height="42px"  />
+  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner7.png" alt="banner9" title="Find Me" width="150px" height="42px"  />
   </br>
 <!-- 🚀 Social Links -->
 <p align="left">
