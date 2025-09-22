@@ -30,12 +30,26 @@
 <!-- <a href="https://github.com/byllzz" target="_blank" title="Portfolio">
   <img src="https://github.com/byllzz.png" width="40" title="My GitHub"/>
 </a>-->
-
 </p>
-<!--About me Banner
-  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner5.png" alt="banner5" title="About Me" width="140px" height="40px" /> -->
 </br>
 
+<!--About me Banner-->
+  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner5.png" alt="banner5" title="About Me" width="140px" height="40px" /> 
+</br>
+<ul>
+  <li>Hi, I’m A ...</li>
+  <li>👨‍💻 Frontend developer who loves React,</li>
+  <li>JavaScript, and modern web technologies ...</li>
+  <li>💞️ I’m looking for collaborations and making products ....</li>
+   <li>Passionate about building creative & futuristic UIs.</li>
+  <li>Visit <a href="#">Portfolio</a> to know more about me ...</li>
+</ul>
+<p align="left">
+  <a href="https://github.com/byllzz">
+    <img src="https://img.shields.io/github/followers/byllzz?label=Follow%20Me&style=social" />
+  </a>
+</p>
+</br>
 <!--Tech Stack Banner -->
   <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner4.png" alt="banner4" title="My Skills" width="137px" height="33px" /> </br></br>
 <!-- 🚀 Tech Logos -->
