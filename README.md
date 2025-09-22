@@ -26,7 +26,7 @@
 
 
 <!--Find me Banner -->
-  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner1.png" alt="banner1" title="Find Me" width="117px" height="33px"  />
+  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner6.png" alt="banner6" title="Find Me" width="137px" height="40px"  />
   </br>
 <!-- 🚀 Social Links -->
 <p align="left">
