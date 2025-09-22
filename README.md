@@ -6,6 +6,42 @@
 </p>
 </hr>
 
+<!-- 🚀 Tech Logos -->
+<p align="left">
+
+  <!-- Row 1: Core Web Tech -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" title="HTML5"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" title="CSS3"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" title="JavaScript"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="React"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" title="Node.js"/> &nbsp;
+  <br/>
+
+  <!-- Row 2: UI Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="35" title="Material UI"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" title="Bootstrap"/>
+  <br/>
+
+  <!-- Row 3: Design Tools -->
+  <img src="https://skillicons.dev/icons?i=figma" width="35" title="Figma"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="35" title="Photoshop"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="35" title="Illustrator"/>
+  <br/>
+  
+  <!-- Row 4: Dev Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" title="GitHub"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="35" title="NPM"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="35" title="Vite"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="35" title="Netlify"/>
+  <br/>
+
+  <!-- Row 5: Editors & Extras -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" title="VS Code"/> &nbsp;
+</p>
+</br>
+</br>
+
 <!-- GitHub Stats Title -->
 <p align="left">
   <img src="https://img.shields.io/badge/GITHUB%20STATS-000000?style=for-the-badge&logo=github&logoColor=white&logoWidth=25" />
