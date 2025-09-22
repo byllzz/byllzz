@@ -30,16 +30,30 @@
   </br>
 <!-- 🚀 Social Links -->
 <p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM/)&nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER/)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)&nbsp;&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YOUR_FACEBOOK/)&nbsp;&nbsp;
-[![UIverse](https://img.shields.io/badge/UIverse-7B61FF?style=for-the-badge&logo=ui-verse&logoColor=white)](https://uiverse.io/)&nbsp;&nbsp;
+## 📫 Connect with Me
 
-  <a href="https://github.com/byllzz" target="_blank" title="Portfolio" >
-    <img src="https://github.com/byllzz.png" width="50" title="My GitHub"/>
-  </a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="35"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="35"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="35"/>
+</a>&nbsp;&nbsp;
+<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" width="35"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/YOUR_FACEBOOK/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="35"/>
+</a>&nbsp;&nbsp;
+<a href="https://uiverse.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/uiverse.svg" alt="UIverse" width="35"/>
+</a>&nbsp;&nbsp;
+ <a href="https://github.com/byllzz" target="_blank" title="Portfolio">
+  <img src="https://github.com/byllzz.png" width="50" title="My GitHub" style="border-radius:50%;"/>
+</a>
+
 </p>
 </br>
 
