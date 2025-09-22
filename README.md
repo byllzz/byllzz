@@ -7,6 +7,22 @@
 <hr>
 <!--About me Banner -->
   <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner2.png" alt="banner2" title="About Me" />
+</br>
+<!-- Short Intro -->
+<table>
+  <tr>
+    <td width="200px" valign="top">
+      <img src="https://i.imgur.com/zY6P3Rq.png" width="200px" height="250px"/>
+    </td>
+    <td>
+      👋 Hi, I’m A ...
+      👨‍💻 Frontend Developer &...
+      Digital Concept Artist ...
+      💞️ I’m looking for collaborations and making products ...
+      Visit <a href="#">Portfolio</a> to know more about me ...
+    </td>
+  </tr>
+</table>
 
 <!--Find me Banner -->
   <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner1.png" alt="banner1" title="Find Me" />
