@@ -30,13 +30,13 @@
   </br>
 <!-- 🚀 Social Links -->
 <p align="left">
-  <a href="https://linkedin.com/in/your-username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" title="LinkedIn"/>
-  </a> &nbsp;&nbsp;
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" title="Gmail" /></a> &nbsp;&nbsp;
-  <a href="https://x.com/yourusername"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" title="Twitter" /></a> &nbsp;&nbsp;
-  <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" width="40" title="Instagram" /></a> &nbsp;&nbsp;
-  <!-- GitHub Avatar -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM/)&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER/)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)&nbsp;&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YOUR_FACEBOOK/)&nbsp;&nbsp;
+[![UIverse](https://img.shields.io/badge/UIverse-7B61FF?style=for-the-badge&logo=ui-verse&logoColor=white)](https://uiverse.io/)&nbsp;&nbsp;
+
   <a href="https://github.com/byllzz" target="_blank" title="Portfolio" >
     <img src="https://github.com/byllzz.png" width="50" title="My GitHub"/>
   </a>
