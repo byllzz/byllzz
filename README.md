@@ -8,12 +8,12 @@
 
 <!-- 🚀 Social Links -->
 <p align="left">
-   <a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a> &nbsp;
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a> &nbsp;
-  <a href="https://x.com/yourusername"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/></a> &nbsp;
-  <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a> &nbsp;
+   <a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" width="40" title="LinkdIn" /></a> &nbsp;
+  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" title="Gmail" /></a> &nbsp;
+  <a href="https://x.com/yourusername"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" title="Twitter" /></a> &nbsp;
+  <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" width="40" title="Instagram" /></a> &nbsp;
   <!-- GitHub Avatar -->
-  <a href="https://github.com/byllzz" target="_blank">
+  <a href="https://github.com/byllzz" target="_blank" title="Portfolio" >
     <img src="https://github.com/byllzz.png" width="50" title="My GitHub"/>
   </a>
 </p>
