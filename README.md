@@ -5,14 +5,12 @@
   </a>
 </p>
 <hr>
-<!--About me Banner
-  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner5.png" alt="banner5" title="About Me" width="140px" height="40px" /> -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/Hello1.png" alt="Profile Header" />
+</div>
 
-<!--Find me Banner -->
-  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner6.png" alt="banner6" title="Find Me" width="150px" height="40px"  />
-  </br>
 <!-- 🚀 Social Links -->
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="35"/>
@@ -29,11 +27,13 @@
 <a href="https://www.facebook.com/YOUR_FACEBOOK/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="35"/>
 </a>&nbsp;&nbsp;
- <a href="https://github.com/byllzz" target="_blank" title="Portfolio">
+<!-- <a href="https://github.com/byllzz" target="_blank" title="Portfolio">
   <img src="https://github.com/byllzz.png" width="40" title="My GitHub"/>
-</a>
+</a>-->
 
 </p>
+<!--About me Banner
+  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner5.png" alt="banner5" title="About Me" width="140px" height="40px" /> -->
 </br>
 
 <!--Tech Stack Banner -->
