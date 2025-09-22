@@ -6,7 +6,7 @@
 </p>
 <hr>
 <!--About me Banner -->
-  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner5.png" alt="banner5" title="About Me" width="142px" height="33px" />
+  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner5.png" alt="banner5" title="About Me" width="140px" height="40px" />
 </br>
 <!-- Short Intro -->
 <table border="0" cellspacing="0" cellpadding="0">
