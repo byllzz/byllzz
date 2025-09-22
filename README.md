@@ -4,14 +4,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=20&duration=5200&pause=0&color=9a80f8&center=true&vCenter=true&width=800&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22&letterSpacing=2&deleteSpeed=150" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x2/cccccc/cccccc" width="80%" />
-</p>
+</hr>
 
 <!-- GitHub Stats Title -->
 <p align="left">
-  <img src="https://img.shields.io/badge/GITHUB%20STATS-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB%20STATS-000000?style=for-the-badge&logo=github&logoColor=white&logoWidth=25" />
 </p>
 
 
