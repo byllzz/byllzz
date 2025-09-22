@@ -5,32 +5,14 @@
   </a>
 </p>
 <hr>
-<!--About me Banner -->
-  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner5.png" alt="banner5" title="About Me" width="140px" height="40px" />
-</br>
-<!-- Short Intro -->
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="200px" valign="top">
-      <img src="https://github.com/byllzz.png" width="200px" height="250px"/>
-    </td>
-    <td>
-      👋 Hi, I’m A ...</br>
-      👨‍💻 Frontend Developer &...</br>
-      Digital Concept Artist ...</br>
-      💞️ I’m looking for collaborations and making products ...</br>
-      Visit <a href="#">Portfolio</a> to know more about me ...
-    </td>
-  </tr>
-</table>
-
+<!--About me Banner
+  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner5.png" alt="banner5" title="About Me" width="140px" height="40px" /> -->
 
 <!--Find me Banner -->
   <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner6.png" alt="banner6" title="Find Me" width="137px" height="40px"  />
   </br>
 <!-- 🚀 Social Links -->
 <p align="left">
-## 📫 Connect with Me
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="35"/>
@@ -47,11 +29,8 @@
 <a href="https://www.facebook.com/YOUR_FACEBOOK/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="35"/>
 </a>&nbsp;&nbsp;
-<a href="https://uiverse.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/uiverse.svg" alt="UIverse" width="35"/>
-</a>&nbsp;&nbsp;
  <a href="https://github.com/byllzz" target="_blank" title="Portfolio">
-  <img src="https://github.com/byllzz.png" width="50" title="My GitHub" style="border-radius:50%;"/>
+  <img src="https://github.com/byllzz.png" width="40" title="My GitHub"/>
 </a>
 
 </p>
