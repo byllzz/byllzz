@@ -8,27 +8,13 @@
 
 <!-- 🚀 Social Links -->
 <p align="left">
-    <a href="https://linkedin.com/in/your-username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
-  </a>  &nbsp; 
-    <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="Email Me"/>
-  </a> &nbsp;
-    <a href="https://twitter.com/your-username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" title="Twitter"/>
-  </a> &nbsp; 
-   <a href="https://www.facebook.com/your-username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" title="Facebook"/>
-  </a> &nbsp; 
-  <a href="https://instagram.com/yourusername">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-  </a> &nbsp;
-  <a href="https://uiverse.io/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/58044295?s=200&v=4" width="40" title="UiVerse"/>
-</a> &nbsp;
+   <a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a> &nbsp;
+  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a> &nbsp;
+  <a href="https://x.com/yourusername"><imgsrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/></a> &nbsp;
+  <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a> &nbsp;
   <!-- GitHub Avatar -->
   <a href="https://github.com/byllzz" target="_blank">
-    <img src="https://github.com/byllzz.png" width="45" title="My GitHub"/>
+    <img src="https://github.com/byllzz.png" width="50" title="My GitHub"/>
   </a>
 </p>
 
