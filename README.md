@@ -6,13 +6,13 @@
 </p>
 <hr>
 <!--About me Banner -->
-  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner2.png" alt="banner2" title="About Me" />
+  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner2.png" alt="banner2" title="About Me" width="142px" height="33px" />
 </br>
 <!-- Short Intro -->
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="200px" valign="top">
-      <img src="https://i.imgur.com/zY6P3Rq.png" width="200px" height="250px"/>
+      <img src="https://github.com/byllzz.png" width="200px" height="250px"/>
     </td>
     <td>
       👋 Hi, I’m A ...</br>
@@ -26,7 +26,7 @@
 
 
 <!--Find me Banner -->
-  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner1.png" alt="banner1" title="Find Me" />
+  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner1.png" alt="banner1" title="Find Me" width="117px" height="33px"  />
   </br>
 <!-- 🚀 Social Links -->
 <p align="left">
