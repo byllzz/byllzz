@@ -30,10 +30,10 @@
   </br>
 <!-- 🚀 Social Links -->
 <p align="left">
-   <a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" width="40" title="LinkdIn" /></a> &nbsp;
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" title="Gmail" /></a> &nbsp;
-  <a href="https://x.com/yourusername"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" title="Twitter" /></a> &nbsp;
-  <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" width="40" title="Instagram" /></a> &nbsp;
+   <a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" width="40" title="LinkdIn" /></a> &nbsp;&nbsp;
+  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" title="Gmail" /></a> &nbsp;&nbsp;
+  <a href="https://x.com/yourusername"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" title="Twitter" /></a> &nbsp;&nbsp;
+  <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" width="40" title="Instagram" /></a> &nbsp;&nbsp;
   <!-- GitHub Avatar -->
   <a href="https://github.com/byllzz" target="_blank" title="Portfolio" >
     <img src="https://github.com/byllzz.png" width="50" title="My GitHub"/>
@@ -44,10 +44,9 @@
 </br>
 
 <!--Tech Stack Banner -->
-  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner4.png" alt="banner4" title="My Skills" width="137px" height="33px" /> </br>
+  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banner4.png" alt="banner4" title="My Skills" width="137px" height="33px" /> </br></br>
 <!-- 🚀 Tech Logos -->
 <p align="left">
-
   <!-- Row 1: Core Web Tech -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" title="HTML5"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" title="CSS3"/> &nbsp;
