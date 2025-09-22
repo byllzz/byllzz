@@ -6,19 +6,17 @@
 </p>
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=byllzz&label=Profile%20views&color=blueviolet&style=flat)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=byllzz&label=Profile%20views&color=blueviolet&style=flat)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=byllzz&show_icons=false&theme=dark&count_private=true)
 
 ![Grade](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=byllzz&theme=dark)
 
----
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byllzz&layout=compact&theme=dark)
 
----
+<h2><font color="white"> Top Contributed Repo</font></h2>
 
 ![Repo](https://github-contributor-stats.vercel.app/api?username=byllzz&limit=2&theme=dark&combine_all_yearly_contributions=true)
 
