@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=20&duration=5200&pause=0&color=9a80f8&center=true&vCenter=true&width=800&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22&letterSpacing=2&deleteSpeed=150" />
   </a>
 </p>
-<hr>
 <div align="center">
   <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/headerBanner.png" alt="Profile Header" width="400px" height="90.6px" />
 </div>
