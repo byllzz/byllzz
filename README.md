@@ -6,7 +6,7 @@
 </p>
 <hr>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/Hello1.png" alt="Profile Header" />
+  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/headerbanner.png" alt="Profile Header" />
 </div>
 
 <!-- 🚀 Social Links -->
