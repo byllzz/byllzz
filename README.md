@@ -41,7 +41,7 @@
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/jslogo.svg" height="50" alt="JAVASCRIPT" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/reactlogo.svg" height="50" alt="REACT JS" />
   &nbsp;
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/nodelogo.svg" height="50" alt="NODE JS" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/nodelogo.png" height="50" alt="NODE JS" />
    &nbsp;
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/nextlogo.svg" height="50" alt="NEXT JS" />
 <br>
@@ -53,18 +53,18 @@
 <br>
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/figma.svg" height="50" alt="FIGMA" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/framer.svg" height="50" alt="FRAMER" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/pslogo.svg" height="45" alt="PHOTOSHOP" /> &nbsp;
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/xdlogo.svg" height="45" alt="ADOBE ILLUSTRATION" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/pslogo.svg" height="42" alt="PHOTOSHOP" /> &nbsp;
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/xdlogo.svg" height="42" alt="ADOBE ILLUSTRATION" />
 
 <br>
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/npm.svg" height="45" alt="NPM" />&nbsp;
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/pnpm.svg" height="48" alt="PNMP" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/githublogo.svg" height="50" alt="GITHUB" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/githublogo.png" height="50" alt="GITHUB" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/gitlogo.svg" height="50" alt="GIT" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/router.svg" height="50" alt="REACT ROUTER" />
 
 <br>
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/notion.svg" height="50" alt="NOTION" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/notion.png" height="50" alt="NOTION" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/netlify.svg" height="50" alt="NETLIFY" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/markdown.svg" height="50" alt="MARKDOWN" />
 
