@@ -57,15 +57,15 @@
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/xdlogo.svg" height="42" alt="ADOBE ILLUSTRATION" />
 
 <br>
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/npm.svg" height="45" alt="NPM" />&nbsp;
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/pnpm.svg" height="48" alt="PNMP" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/npm.svg" height="40" alt="NPM" />&nbsp;
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/pnpm.svg" height="40" alt="PNMP" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/githublogo.png" height="50" alt="GITHUB" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/gitlogo.svg" height="50" alt="GIT" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/router.svg" height="50" alt="REACT ROUTER" />
 
 <br>
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/notion.png" height="50" alt="NOTION" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/netlify.svg" height="50" alt="NETLIFY" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/notion.png" height="45" alt="NOTION" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/netlify.svg" height="45" alt="NETLIFY" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/markdown.svg" height="50" alt="MARKDOWN" />
 
 <br>
