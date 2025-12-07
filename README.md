@@ -23,10 +23,10 @@
 
 <p align="left">
      <a href="https://linkedin.com/in/byllzz" target="_blank"><img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/linkedinlogo.svg" alt="LinkedIn" height="50"></a>&nbsp;
-      <a href="mailto:bilalazeem1010@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/gmailogo.svg" alt="Mail" height="50"></a>&nbsp;
-  <a href="https://twitter.com/byllzz" target="_blank"> <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/twitterlogo.png" alt="twitter" height="54" ></a>&nbsp;
+      <a href="mailto:bilalmalikcodes@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/gmailogo.svg" alt="Mail" height="50"></a>&nbsp;
+  <a href="https://twitter.com/byllzzz" target="_blank"> <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/twitterlogo.png" alt="twitter" height="54" ></a>&nbsp;
       <a href="https://instagram.com/byllzz" target="_blank"><img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/instalogo.svg" alt="instagram" height="50"></a>&nbsp;
-      <a href="https://instagram.com/byllzz" target="_blank"><img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/codepenlogo.svg" alt="instagram" height="50"></a>&nbsp;
+      <a href="https://codepen.com/byllzz" target="_blank"><img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/codepenlogo.svg" alt="instagram" height="50"></a>&nbsp;
       <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/portfoliologo.png" alt="Portfolio" height="50"></a>
 </p>
 
