@@ -41,9 +41,9 @@
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/jslogo.svg" height="50" alt="JAVASCRIPT" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/reactlogo.svg" height="50" alt="REACT JS" />
   &nbsp;
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/nodelogo.png" height="50" alt="NODE JS" />
+  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/nextlogo.svg" height="42" alt="NEXT JS" />
    &nbsp;
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/nextlogo.svg" height="50" alt="NEXT JS" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/nodelogo.png" height="50" alt="NODE JS" />
 <br>
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/sasslogo.svg" height="50" alt="SASS CSS" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/bootlogo.svg" height="50" alt="BOOTSTRAP" />
@@ -58,7 +58,7 @@
 
 <br>
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/npm.svg" height="40" alt="NPM" />&nbsp;
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/pnpm.svg" height="40" alt="PNMP" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/pnpm.svg" height="37" alt="PNMP" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/githublogo.png" height="50" alt="GITHUB" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/gitlogo.svg" height="50" alt="GIT" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/router.svg" height="50" alt="REACT ROUTER" />
