@@ -1,7 +1,6 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&width=435&lines=Reading,+writing,+and+deploying." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&width=435&lines=%22Reading,+writing,+and+deploying.%22" alt="Typing SVG" />
 </h2>
-
 
 <a href="#" align="left"><img align="left" width="122" alt="Who I am" src="https://raw.githubusercontent.com/byllzz/byllzz/main/banners/banner-about.png"></a>
 <br><br>
@@ -19,8 +18,6 @@
 </ul>
 <br><br><br><br><br>
 
-<a href="https://wakatime.com/@ed1b5f13-c0ee-4026-8108-d705acd99e91"><img src="https://wakatime.com/badge/user/ed1b5f13-c0ee-4026-8108-d705acd99e91.svg?color=9f65ff" alt="Total time coded since Nov 29 2025" /></a>
-<br><br>
 <img width="137" alt="Reach Me" src="https://raw.githubusercontent.com/byllzz/byllzz/main/banners/banner-findme.png">
 <br>
 
