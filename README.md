@@ -1,6 +1,7 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Reading%2C+writing%2C+and+deploying.%22%2334%3B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&width=435&lines=Reading,+writing,+and+deploying." alt="Typing SVG" />
 </h2>
+
 
 <a href="#" align="left"><img align="left" width="122" alt="Who I am" src="https://raw.githubusercontent.com/byllzz/byllzz/main/banners/banner-about.png"></a>
 <br><br>
