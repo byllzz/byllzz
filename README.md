@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Searching%2C+Googling%2C+and+Panicking.%22%2334%3B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Reading%2C+writing%2C+and+deploying.%22%2334%3B" alt="Typing SVG" />
 </h2>
 
 <a href="#" align="left"><img align="left" width="122" alt="Who I am" src="https://raw.githubusercontent.com/byllzz/byllzz/main/banners/banner-about.png"></a>
@@ -12,6 +12,7 @@
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Frontend Developer & ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Concept Artist ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Still building new things & learning from them ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;💞️ I’m looking for collaborations and making products ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="#" target="_blank">Portfolio</a> to know more about me ...</li>
 </ul>
@@ -58,7 +59,7 @@
 
 <br>
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/npm.svg" height="40" alt="NPM" />&nbsp;
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/pnpm.svg" height="37" alt="PNMP" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/pnpm.svg" height="35" alt="PNMP" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/githublogo.png" height="50" alt="GITHUB" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/gitlogo.svg" height="50" alt="GIT" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/router.svg" height="50" alt="REACT ROUTER" />
@@ -82,6 +83,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-byllzz&color=blueviolet)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byllzz&show_icons=false&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byllzz&show_icons=false&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byllzz&layout=compact&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byllzz&layout=compact&theme=dark)
+
