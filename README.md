@@ -14,7 +14,7 @@
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Concept Artist ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Still building new things & learning from them ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;💞️ I’m looking for collaborations and making products ...</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  href="https://bilalmalik-portfolio.netlify.app" target="_blank">Portfolio</a> to know more about me ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit <a href="https://bilalmalik-portfolio.netlify.app" target="_blank">Portfolio</a> to know more about me ...</li>
 </ul>
 <br><br><br><br><br>
 
