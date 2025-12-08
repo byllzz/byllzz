@@ -45,9 +45,9 @@
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/nodelogo.png" height="40" alt="NODE JS" />
 <br>
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/sasslogo.svg" height="45" alt="SASS CSS" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/bootlogo.svg" height="45" alt="BOOTSTRAP" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/bootlogo.svg" height="45" alt="BOOTSTRAP" /> &nbsp;
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/materiallogo.svg" height="40" alt="MATERIAL UI" />&nbsp;
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/typeScriptlogo.svg" height="40" alt="TYPESCRIPT" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/typeScriptlogo.svg" height="40" alt="TYPESCRIPT" /> &nbsp;
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/tailwindlogo.svg" height="50" alt="TAILWIND CSS" />
 <br>
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/figma.svg" height="40" alt="FIGMA" />
@@ -68,8 +68,8 @@
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/markdown.svg" height="50" alt="MARKDOWN" />
 
 <br>
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/vite.svg" height="45" alt="VITE" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/vscode.svg" height="45" alt="VS CODE EDITOR" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/vite.svg" height="40" alt="VITE" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/vscode.svg" height="40" alt="VS CODE EDITOR" />
 </p>
 
 <br>
