@@ -52,7 +52,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/figma.svg" height="50" alt="FIGMA" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/framer.svg" height="50" alt="FRAMER" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/pslogo.svg" height=""38 alt="PHOTOSHOP" /> &nbsp;
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/pslogo.svg" height="38" alt="PHOTOSHOP" /> &nbsp;
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/xdlogo.svg" height="38" alt="ADOBE ILLUSTRATION" />
 
 <br>
