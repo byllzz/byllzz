@@ -40,13 +40,13 @@
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/jslogo.svg" height="50" alt="JAVASCRIPT" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/reactlogo.svg" height="50" alt="REACT JS" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/nextlogo.svg" height="40" alt="NEXT JS" />
+  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/nodelogo.png" height="40" alt="NODE JS" />
    &nbsp;
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/nodelogo.png" height="40" alt="NODE JS" />
+  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/nextlogo.svg" height="40" alt="NEXT JS" />
 <br>
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/sasslogo.svg" height="45" alt="SASS CSS" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/bootlogo.svg" height="45" alt="BOOTSTRAP" /> &nbsp;
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/materiallogo.svg" height="40" alt="MATERIAL UI" />&nbsp;
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/materiallogo.svg" height="40" alt="MATERIAL UI" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/typeScriptlogo.svg" height="40" alt="TYPESCRIPT" /> &nbsp;
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/tailwindlogo.svg" height="50" alt="TAILWIND CSS" />
 <br>
@@ -56,10 +56,10 @@
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/xdlogo.svg" height="38" alt="ADOBE ILLUSTRATION" />
 
 <br>
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/npm.svg" height="35" alt="NPM" />&nbsp;
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/npm.svg" height="35" alt="NPM" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/pnpm.svg" height="35" alt="PNMP" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/githublogo.png" height="50" alt="GITHUB" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/gitlogo.svg" height="50" alt="GIT" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/githublogo.png" height="50" alt="GITHUB" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/router.svg" height="45" alt="REACT ROUTER" />
 
 <br>
