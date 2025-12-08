@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&width=435&lines=%22Reading,+writing,+and+deploying.%22" alt="Typing SVG" />
 </h2>
 
-<a href="#" align="left"><img align="left" width="122" alt="Who I am" src="https://raw.githubusercontent.com/byllzz/byllzz/main/banners/banner-about.png"></a>
+<a href="https://portfolioo-under-construction.netlify.app" align="left"><img align="left" width="122" alt="Who I am" src="https://raw.githubusercontent.com/byllzz/byllzz/main/banners/banner-about.png"></a>
 <br><br>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=byllzz&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/byllzz)
 
@@ -14,7 +14,7 @@
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Concept Artist ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Still building new things & learning from them ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;💞️ I’m looking for collaborations and making products ...</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="#" target="_blank">Portfolio</a> to know more about me ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://portfolioo-under-construction.netlify.app" target="_blank">Portfolio</a> to know more about me ...</li>
 </ul>
 <br><br><br><br><br>
 
@@ -33,7 +33,7 @@
   <a href="https://twitter.com/byllzzzz" target="_blank"> <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/twitterlogo.png" alt="twitter" height="48" ></a>&nbsp;
     <!-- <a href="https://instagram.com/byllzz" target="_blank"><img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/instalogo.svg" alt="instagram" height="50"></a>&nbsp;-->
     <!-- <a href="https://codepen.com/byllzz" target="_blank"><img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/codepenlogo.svg" alt="instagram" height="50"></a>&nbsp; -->
-      <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/portfoliologo.png" alt="Portfolio" height="50"></a>
+      <a href="https://portfolioo-under-construction.netlify.app" target="_blank"><img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/portfoliologo.png" alt="Portfolio" height="50"></a>
 </p>
 
 <br>
