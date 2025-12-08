@@ -18,6 +18,9 @@
 </ul>
 <br><br><br><br><br>
 
+<a href="https://wakatime.com/@9a959d93-5e23-4593-80d9-8cc89665dab3"><img src="https://wakatime.com/badge/user/9a959d93-5e23-4593-80d9-8cc89665dab3.svg" alt="Total time coded since Dec 8 2025" /></a>
+<br>
+
 <img width="137" alt="Reach Me" src="https://raw.githubusercontent.com/byllzz/byllzz/main/banners/banner-findme.png">
 <br>
 
