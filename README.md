@@ -40,12 +40,12 @@
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/jslogo.svg" height="50" alt="JAVASCRIPT" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/reactlogo.svg" height="50" alt="REACT JS" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/nextlogo.svg" height="42" alt="NEXT JS" />
+  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/nextlogo.svg" height="40" alt="NEXT JS" />
    &nbsp;
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/nodelogo.png" height="50" alt="NODE JS" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/nodelogo.png" height="40" alt="NODE JS" />
 <br>
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/sasslogo.svg" height="50" alt="SASS CSS" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/bootlogo.svg" height="50" alt="BOOTSTRAP" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/sasslogo.svg" height="45" alt="SASS CSS" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/bootlogo.svg" height="45" alt="BOOTSTRAP" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/materiallogo.svg" height="45" alt="MATERIAL UI" />&nbsp;
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/typeScriptlogo.svg" height="45" alt="TYPESCRIPT" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/tailwindlogo.svg" height="50" alt="TAILWIND CSS" />
@@ -56,20 +56,20 @@
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/xdlogo.svg" height="42" alt="ADOBE ILLUSTRATION" />
 
 <br>
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/npm.svg" height="40" alt="NPM" />&nbsp;
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/npm.svg" height="35" alt="NPM" />&nbsp;
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/pnpm.svg" height="35" alt="PNMP" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/githublogo.png" height="50" alt="GITHUB" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/gitlogo.svg" height="50" alt="GIT" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/router.svg" height="50" alt="REACT ROUTER" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/router.svg" height="45" alt="REACT ROUTER" />
 
 <br>
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/notion.png" height="45" alt="NOTION" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/netlify.svg" height="45" alt="NETLIFY" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/notion.png" height="40" alt="NOTION" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/netlify.svg" height="40" alt="NETLIFY" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/markdown.svg" height="50" alt="MARKDOWN" />
 
 <br>
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/vite.svg" height="50" alt="VITE" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/vscode.svg" height="50" alt="VS CODE EDITOR" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/vite.svg" height="45" alt="VITE" />
+<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/icons/vscode.svg" height="45" alt="VS CODE EDITOR" />
 </p>
 
 <br>
