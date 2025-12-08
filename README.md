@@ -82,7 +82,8 @@
 ![](https://komarev.com/ghpvc/?username=your-github-byllzz&color=blueviolet)
 
 <!-- GitHub Activity Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical&count_private=false&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=byllzz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical&hide_border=true)
