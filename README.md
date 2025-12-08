@@ -82,10 +82,10 @@
 ![](https://komarev.com/ghpvc/?username=your-github-byllzz&color=blueviolet)
 
 <!-- GitHub Activity Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byllzz&show_icons=true&theme=radical&count_private=false&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical&count_private=false&hide_border=true)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byllzz&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical&hide_border=true)
 
 <!-- Streak Stats -->
 <!-- (https://github-readme-streak-stats.herokuapp.com/?user=byllzz&theme=radical&hide_border=true)-->
