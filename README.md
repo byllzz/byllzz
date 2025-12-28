@@ -4,11 +4,10 @@
 
 <a href="https://bilalmalik-portfolio.netlify.app" target="_blank" align="left"><img width="122"  alt="who I am" src="https://github.com/user-attachments/assets/e94abb1b-85b8-4f39-9861-6a8920058fd0" /></a>
 
-<br><br>
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=byllzz&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/byllzz)
 
-<p align="left"><img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banners/AvatarPoster.gif" width="200" align="left" alt="Animated Poster GIF">
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/8e0ff0f4-26eb-4d3a-8ed7-3364edb4c7ab" width="200" align="left" alt="personal poster">
 </p>
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
@@ -27,7 +26,7 @@
 <br>
 <br>
 
-<img width="122" alt="Reach Me" src="https://raw.githubusercontent.com/byllzz/byllzz/main/banners/banner-reachOut.png">
+<img width="122"  alt="Connect to me" src="https://github.com/user-attachments/assets/94c86d36-35b4-47fb-a37d-f2aee8c059e8" />
 
 <br>
 
@@ -40,7 +39,7 @@
 </p>
 
 <br>
-<img width="128" alt="My Tech Stack" src="https://raw.githubusercontent.com/byllzz/byllzz/main/banners/banner-tecs.png">
+<img  width="122"  alt="skills I have" src="https://github.com/user-attachments/assets/94643443-aabb-464b-883a-6f1c7219a426" />
 <br>
 <!-- Dev / Code -->
 <p align="left">
