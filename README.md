@@ -39,7 +39,7 @@
 
 <br>
 <img  width="122"  alt="skills I have" src="https://github.com/user-attachments/assets/94643443-aabb-464b-883a-6f1c7219a426" />
-<br>
+<br><br>
 
 <p align="left">
 <img width="40" height="40" alt="HTML" src="https://github.com/user-attachments/assets/60dbf976-1483-4ef8-aa71-c50f698ef906" /> 
@@ -56,10 +56,9 @@
 <img width="40" height="40" alt="MATERIAL UI" src="https://github.com/user-attachments/assets/597f00ab-9141-4e04-b4a2-d35734d861ce" />
 
 <br>
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/notionlogo.png" height="45" alt="Notion" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/netlifylogo.png" height="45" alt="Netlify" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/npmlogo.png" height="43" alt="NPM" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/pnpmlogo.png" height="43" alt="PNPM" />
+<img width="40" height="40" alt="GIT" src="https://github.com/user-attachments/assets/bb7ba64e-d9b3-48e1-ac74-610df4a1ca63" />
+<img width="40" height="40" alt="GITHUB" src="https://github.com/user-attachments/assets/e2e36f46-5578-4a5d-92bc-5ae0e26eecae" /> 
+<img width="40" height="40" alt="NETLIFY" src="https://github.com/user-attachments/assets/b22418e4-c1df-416f-8b80-4c6155901e95" />
 <br>
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/gitlogo.png" height="45" alt="Git" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/githublogo.png" height="45" alt="Github" />
