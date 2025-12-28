@@ -19,12 +19,10 @@
 </ul>
 <br><br><br>
 
-<a href="https://wakatime.com/@9a959d93-5e23-4593-80d9-8cc89665dab3">
-<img src="https://wakatime.com/badge/user/9a959d93-5e23-4593-80d9-8cc89665dab3.svg?color=9B72FF" alt="Total time coded since Dec 8 2025" />
-</a>
 <a href="https://wakatime.com/@64a47f57-673b-4f9d-84da-f5d0eb9e1fc5"><img src="https://wakatime.com/badge/user/64a47f57-673b-4f9d-84da-f5d0eb9e1fc5.svg?color=9B72FF" alt="Total time coded since Dec 28 2025" /></a>
 
 <br>
+
 <br>
 
 <img width="122"  alt="Connect to me" src="https://github.com/user-attachments/assets/94c86d36-35b4-47fb-a37d-f2aee8c059e8" />
