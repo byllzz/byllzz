@@ -48,22 +48,17 @@
 <img width="40" height="40" alt="REACT" src="https://github.com/user-attachments/assets/95ff9eb6-9e62-48e9-8228-048f60c0db4e" /> 
 <img width="40" height="40" alt="NEXT" src="https://github.com/user-attachments/assets/ac2f6563-b946-43ad-bb7c-c85bad6d3f3f" />  
 <img width="40" height="40" alt="NODE" src="https://github.com/user-attachments/assets/a71749f0-24c2-4444-8047-17b329a11b1d" />
-
-
 <br>
-<img width="40" height="40" alt="SCSS" src="https://github.com/user-attachments/assets/9fefd66c-2ce5-4d83-a9ab-6d524ce5928c" />
 <img width="40" height="40" alt="BOOTSTRAP" src="https://github.com/user-attachments/assets/d5caa56a-cf93-43b6-94b9-ed4a707489d1" />
-<img width="40" height="40" alt="MATERIAL UI" src="https://github.com/user-attachments/assets/597f00ab-9141-4e04-b4a2-d35734d861ce" />
-
+<img width="40" height="40" alt="SCSS" src="https://github.com/user-attachments/assets/9fefd66c-2ce5-4d83-a9ab-6d524ce5928c" />
 <br>
 <img width="40" height="40" alt="GIT" src="https://github.com/user-attachments/assets/bb7ba64e-d9b3-48e1-ac74-610df4a1ca63" />
 <img width="40" height="40" alt="GITHUB" src="https://github.com/user-attachments/assets/e2e36f46-5578-4a5d-92bc-5ae0e26eecae" /> 
 <img width="40" height="40" alt="NETLIFY" src="https://github.com/user-attachments/assets/b22418e4-c1df-416f-8b80-4c6155901e95" />
 <br>
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/gitlogo.png" height="45" alt="Git" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/githublogo.png" height="45" alt="Github" />
-<br>
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/figmalogo.png" height="45" alt="Figma" />
+<img width="40" height="40" alt="NOTION" src="https://github.com/user-attachments/assets/ccfa44bb-1476-4974-951c-3253dbc590ad" /> 
+<img width="40" height="40" alt="MATERIAL UI" src="https://github.com/user-attachments/assets/597f00ab-9141-4e04-b4a2-d35734d861ce" />
+<img width="40" height="40" alt="tailwind" src="https://github.com/user-attachments/assets/2551f462-2b2a-430a-a92f-9130c7ed9d5f" /> 
 </p>
 
 <br>
