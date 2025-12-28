@@ -20,23 +20,21 @@
 <br><br><br>
 
 <a href="https://wakatime.com/@64a47f57-673b-4f9d-84da-f5d0eb9e1fc5"><img src="https://wakatime.com/badge/user/64a47f57-673b-4f9d-84da-f5d0eb9e1fc5.svg?color=9B72FF" alt="Total time coded since Dec 28 2025" /></a>
-
-<br>
-
 <br>
 
 <img width="122"  alt="Connect to me" src="https://github.com/user-attachments/assets/94c86d36-35b4-47fb-a37d-f2aee8c059e8" />
-
 <br>
 
 <p align="left">
      <a href="https://linkedin.com/in/byllzz" target="_blank">
        <img width="40" height="40" alt="linkedin" src="https://github.com/user-attachments/assets/d845bbd2-187d-4c53-8903-da05b691260e" />
-     </a> &nbsp;
-      <a href="mailto:bilalmalikcodes@gmail.com" target="_blank"><img width="40" height="40" alt="gmail" src="https://github.com/user-attachments/assets/a24f1f52-39fe-4898-a02b-5cb4bae0dea0" /></a> &nbsp;
-  <a href="https://twitter.com/byllzzzz" target="_blank"> <img width="40" height="40" alt="twitter(X)" src="https://github.com/user-attachments/assets/fc94a20a-4851-4232-b4a1-d94b889f141f" /> </a> &nbsp;
+     </a> 
+      <a href="mailto:bilalmalikcodes@gmail.com" target="_blank"><img width="40" height="40" alt="gmail" src="https://github.com/user-attachments/assets/a24f1f52-39fe-4898-a02b-5cb4bae0dea0" /></a>
+  <a href="https://twitter.com/byllzzzz" target="_blank"> <img width="40" height="40" alt="twitter(X)" src="https://github.com/user-attachments/assets/fc94a20a-4851-4232-b4a1-d94b889f141f" /> </a> 
   <a href="https://instagram.com/byllzzzz" target="_blank"> <img width="40" height="40" alt="Instagram" src="https://github.com/user-attachments/assets/535ae907-036e-43c1-b0bb-fa1cbace0e3c" /></a>&nbsp;
-      <a href="https://bilalmalik-portfolio.netlify.app" target="_blank"><img src="https://raw.githubusercontent.com/byllzz/byllzz/main/banners/portfolioLogo.png" alt="Portfolio" height="45" width="45"></a>
+      <a href="https://bilalmalik-portfolio.netlify.app" target="_blank">
+        <img width="55" height="55" alt="personal avatar" src="https://github.com/user-attachments/assets/dae26ba0-ae69-40de-9046-fdd1b21c7fec" />
+      </a>
 </p>
 
 <br>
