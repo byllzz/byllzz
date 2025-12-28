@@ -23,17 +23,17 @@
 <br>
 
 <img width="122"  alt="Connect to me" src="https://github.com/user-attachments/assets/94c86d36-35b4-47fb-a37d-f2aee8c059e8" />
-<br>
+<br><br>
 
 <p align="left">
      <a href="https://linkedin.com/in/byllzz" target="_blank">
        <img width="40" height="40" alt="linkedin" src="https://github.com/user-attachments/assets/d845bbd2-187d-4c53-8903-da05b691260e" />
      </a> 
       <a href="mailto:bilalmalikcodes@gmail.com" target="_blank"><img width="40" height="40" alt="gmail" src="https://github.com/user-attachments/assets/a24f1f52-39fe-4898-a02b-5cb4bae0dea0" /></a>
-  <a href="https://twitter.com/byllzzzz" target="_blank"> <img width="40" height="40" alt="twitter(X)" src="https://github.com/user-attachments/assets/fc94a20a-4851-4232-b4a1-d94b889f141f" /> </a> 
-  <a href="https://instagram.com/byllzzzz" target="_blank"> <img width="40" height="40" alt="Instagram" src="https://github.com/user-attachments/assets/535ae907-036e-43c1-b0bb-fa1cbace0e3c" /></a>&nbsp;
+    <a href="https://instagram.com/byllzzzz" target="_blank"> <img width="40" height="40" alt="Instagram" src="https://github.com/user-attachments/assets/535ae907-036e-43c1-b0bb-fa1cbace0e3c" /></a>
+  <a href="https://twitter.com/byllzzzz" target="_blank"> <img width="40" height="40" alt="twitter(X)" src="https://github.com/user-attachments/assets/fc94a20a-4851-4232-b4a1-d94b889f141f" /> </a>&nbsp;
       <a href="https://bilalmalik-portfolio.netlify.app" target="_blank">
-        <img width="55" height="55" alt="personal avatar" src="https://github.com/user-attachments/assets/dae26ba0-ae69-40de-9046-fdd1b21c7fec" />
+        <img width="45" height="45" alt="personal avatar" src="https://github.com/user-attachments/assets/8fa979bd-9b12-41f3-bb17-4eee495402e1" />
       </a>
 </p>
 
