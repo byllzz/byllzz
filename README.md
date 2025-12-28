@@ -27,7 +27,7 @@
 
 <p align="left">
      <a href="https://linkedin.com/in/byllzz" target="_blank">
-       <img width="50" height="50" alt="linkedin" src="https://github.com/user-attachments/assets/d845bbd2-187d-4c53-8903-da05b691260e" />
+       <img width="48" height="48" alt="linkedin" src="https://github.com/user-attachments/assets/d845bbd2-187d-4c53-8903-da05b691260e" />
      </a> &nbsp;
       <a href="mailto:bilalmalikcodes@gmail.com" target="_blank"><img width="50" height="50" alt="gmail" src="https://github.com/user-attachments/assets/a24f1f52-39fe-4898-a02b-5cb4bae0dea0" /></a> &nbsp;
     <a href="https://instagram.com/byllzzzz" target="_blank"> <img width="50" height="50" alt="Instagram" src="https://github.com/user-attachments/assets/535ae907-036e-43c1-b0bb-fa1cbace0e3c" /></a> &nbsp;
@@ -58,17 +58,18 @@
 <br>
 <img width="48" height="48" alt="MATERIAL UI" src="https://github.com/user-attachments/assets/597f00ab-9141-4e04-b4a2-d35734d861ce" />
 <img width="50" height="50" alt="tailwind" src="https://github.com/user-attachments/assets/2551f462-2b2a-430a-a92f-9130c7ed9d5f" /> 
+<br>
+<img width="50" height="50" alt="FIGMA" src="https://github.com/user-attachments/assets/1ce82bc4-2bf7-4745-95d0-bd9d0dac2069" />
 </p>
 
 <br>
 
-<!-- <a href="https://github.com/byllzz">
- <p align="left"><img width="115" alt="My Github Stats" src="https://raw.githubusercontent.com/byllzz/byllzz/main/banners/banner-follow.png"></p>
-</a>
+<p align="left">
+<img  width="122"  alt="Image" src="https://github.com/user-attachments/assets/53b6165a-3a14-4f6b-a12c-3a46553c1e3f" />
+ </p>
 
 <br>
-<p align="left"><img width="118" alt="My Github Stats" src="https://raw.githubusercontent.com/byllzz/byllzz/main/banners/banner-gitStats.png"></p>
-<br> -->
+
 
 ![](https://komarev.com/ghpvc/?username=your-github-byllzz&color=blueviolet)
 
