@@ -42,12 +42,12 @@
 <br>
 
 <p align="left">
-<img width="40" height="40" alt="HTML" src="https://github.com/user-attachments/assets/60dbf976-1483-4ef8-aa71-c50f698ef906" /> html 
-<img width="40" height="40" alt="CSS" src="https://github.com/user-attachments/assets/092f0047-d42b-40fd-bef0-9b01f902028f" /> css
-<img width="40" height="40" alt="JS" src="https://github.com/user-attachments/assets/c0aebe3b-a4aa-4efa-8dce-6090ecf24ee4" /> js
-<img width="40" height="40" alt="REACT" src="https://github.com/user-attachments/assets/95ff9eb6-9e62-48e9-8228-048f60c0db4e" /> react
-<img width="40" height="40" alt="NEXT" src="https://github.com/user-attachments/assets/ac2f6563-b946-43ad-bb7c-c85bad6d3f3f" /> next 
-<img width="40" height="40" alt="NODE" src="https://github.com/user-attachments/assets/a71749f0-24c2-4444-8047-17b329a11b1d" /> node
+<img width="40" height="40" alt="HTML" src="https://github.com/user-attachments/assets/60dbf976-1483-4ef8-aa71-c50f698ef906" /> 
+<img width="40" height="40" alt="CSS" src="https://github.com/user-attachments/assets/092f0047-d42b-40fd-bef0-9b01f902028f" />
+<img width="40" height="40" alt="JS" src="https://github.com/user-attachments/assets/c0aebe3b-a4aa-4efa-8dce-6090ecf24ee4" /> 
+<img width="40" height="40" alt="REACT" src="https://github.com/user-attachments/assets/95ff9eb6-9e62-48e9-8228-048f60c0db4e" /> 
+<img width="40" height="40" alt="NEXT" src="https://github.com/user-attachments/assets/ac2f6563-b946-43ad-bb7c-c85bad6d3f3f" />  
+<img width="40" height="40" alt="NODE" src="https://github.com/user-attachments/assets/a71749f0-24c2-4444-8047-17b329a11b1d" />
 
 
 <br>
