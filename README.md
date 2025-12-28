@@ -39,7 +39,7 @@
 
 <br>
 <img  width="140"  alt="skills I have" src="https://github.com/user-attachments/assets/94643443-aabb-464b-883a-6f1c7219a426" />
-<br><br>
+<br><br><br>
 
 <p align="left">
 <img width="50" height="50" alt="HTML" src="https://github.com/user-attachments/assets/60dbf976-1483-4ef8-aa71-c50f698ef906" /> 
