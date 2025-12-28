@@ -27,11 +27,11 @@
 
 <p align="left">
      <a href="https://linkedin.com/in/byllzz" target="_blank">
-       <img width="48" height="48" alt="linkedin" src="https://github.com/user-attachments/assets/d845bbd2-187d-4c53-8903-da05b691260e" />
+       <img width="45" height="45" alt="linkedin" src="https://github.com/user-attachments/assets/d845bbd2-187d-4c53-8903-da05b691260e" />
      </a> &nbsp;
-      <a href="mailto:bilalmalikcodes@gmail.com" target="_blank"><img width="50" height="50" alt="gmail" src="https://github.com/user-attachments/assets/a24f1f52-39fe-4898-a02b-5cb4bae0dea0" /></a> &nbsp;
-    <a href="https://instagram.com/byllzzzz" target="_blank"> <img width="50" height="50" alt="Instagram" src="https://github.com/user-attachments/assets/535ae907-036e-43c1-b0bb-fa1cbace0e3c" /></a> &nbsp;
-  <a href="https://twitter.com/byllzzzz" target="_blank"> <img width="48" height="48" alt="twitter(X)" src="https://github.com/user-attachments/assets/fc94a20a-4851-4232-b4a1-d94b889f141f" /> </a> &nbsp;
+      <a href="mailto:bilalmalikcodes@gmail.com" target="_blank"><img width="45" height="45" alt="gmail" src="https://github.com/user-attachments/assets/a24f1f52-39fe-4898-a02b-5cb4bae0dea0" /></a> &nbsp;
+    <a href="https://instagram.com/byllzzzz" target="_blank"> <img width="45" height="45" alt="Instagram" src="https://github.com/user-attachments/assets/535ae907-036e-43c1-b0bb-fa1cbace0e3c" /></a> &nbsp;
+  <a href="https://twitter.com/byllzzzz" target="_blank"> <img width="43" height="43" alt="twitter(X)" src="https://github.com/user-attachments/assets/fc94a20a-4851-4232-b4a1-d94b889f141f" /> </a> &nbsp;
       <a href="https://bilalmalik-portfolio.netlify.app" target="_blank">
         <img width="50" height="50" alt="personal avatar" src="https://github.com/user-attachments/assets/8fa979bd-9b12-41f3-bb17-4eee495402e1" />
       </a>
@@ -65,7 +65,7 @@
 <br>
 
 <p align="left">
-<img  width="156"  alt="Image" src="https://github.com/user-attachments/assets/53b6165a-3a14-4f6b-a12c-3a46553c1e3f" />
+<img  width="156" height="35"  alt="Image" src="https://github.com/user-attachments/assets/53b6165a-3a14-4f6b-a12c-3a46553c1e3f" />
  </p>
 
 <br>
