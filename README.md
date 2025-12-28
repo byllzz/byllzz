@@ -65,11 +65,10 @@
 <br>
 
 <p align="left">
-<img  width="122"  alt="Image" src="https://github.com/user-attachments/assets/53b6165a-3a14-4f6b-a12c-3a46553c1e3f" />
+<img  width="156"  alt="Image" src="https://github.com/user-attachments/assets/53b6165a-3a14-4f6b-a12c-3a46553c1e3f" />
  </p>
 
 <br>
-
 
 ![](https://komarev.com/ghpvc/?username=your-github-byllzz&color=blueviolet)
 
