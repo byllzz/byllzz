@@ -7,8 +7,9 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=byllzz&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/byllzz)
 
 
-
-<img src="https://github.com/user-attachments/assets/7684816c-2bfb-447e-a894-c8bd4d3a6547" height="200" />
+<p align="left">
+<img src="https://github.com/user-attachments/assets/7684816c-2bfb-447e-a894-c8bd4d3a6547" width="200" />
+  </p>
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Frontend Developer & ...</li>
