@@ -51,11 +51,10 @@
 
 
 <br>
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/typeSlogo.png" height="43" alt="TypeScript" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/sasslogo.png" height="45" alt="Sassy CSS" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/bootlogo.png" height="45" alt="BootStrap" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/materiallogo.png" height="45" alt="Material UI" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/tailwindlogo.png" height="45" alt="Tailwind CSS" />
+<img width="40" height="40" alt="SCSS" src="https://github.com/user-attachments/assets/9fefd66c-2ce5-4d83-a9ab-6d524ce5928c" />
+<img width="40" height="40" alt="BOOTSTRAP" src="https://github.com/user-attachments/assets/d5caa56a-cf93-43b6-94b9-ed4a707489d1" />
+<img width="40" height="40" alt="MATERIAL UI" src="https://github.com/user-attachments/assets/597f00ab-9141-4e04-b4a2-d35734d861ce" />
+
 <br>
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/notionlogo.png" height="45" alt="Notion" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/netlifylogo.png" height="45" alt="Netlify" />
