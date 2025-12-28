@@ -6,10 +6,9 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=byllzz&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/byllzz)
 
-<p>
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/7684816c-2bfb-447e-a894-c8bd4d3a6547" height="200" />
-</p>
+
+
+<img src="https://github.com/user-attachments/assets/7684816c-2bfb-447e-a894-c8bd4d3a6547" height="200" />
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Frontend Developer & ...</li>
@@ -18,7 +17,7 @@
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;💞️ I’m looking for collaborations and making products ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit <a href="https://bilalmalik-portfolio.netlify.app" target="_blank">Portfolio</a> to know more about me ...</li>
 </ul>
-</p>
+
 <br><br><br>
 
 <a href="https://wakatime.com/@64a47f57-673b-4f9d-84da-f5d0eb9e1fc5"><img src="https://wakatime.com/badge/user/64a47f57-673b-4f9d-84da-f5d0eb9e1fc5.svg?color=9B72FF" alt="Total time coded since Dec 28 2025" /></a>
