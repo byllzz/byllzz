@@ -18,7 +18,6 @@
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit <a href="https://bilalmalik-portfolio.netlify.app" target="_blank">Portfolio</a> to know more about me ...</li>
 </ul>
 <br><br><br>
-
 <a href="https://wakatime.com/@9a959d93-5e23-4593-80d9-8cc89665dab3">
 <img src="https://wakatime.com/badge/user/9a959d93-5e23-4593-80d9-8cc89665dab3.svg?color=9B72FF" alt="Total time coded since Dec 8 2025" />
 </a>
