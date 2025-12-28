@@ -40,14 +40,16 @@
 <br>
 <img  width="122"  alt="skills I have" src="https://github.com/user-attachments/assets/94643443-aabb-464b-883a-6f1c7219a426" />
 <br>
-<!-- Dev / Code -->
+
 <p align="left">
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/htmllogo.png" height="45" alt="HTML5" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/csslogo.png" height="45" alt="CSS3" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/jslogo.png" height="45" alt="JAVASCRIPT" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/reactlogo.png" height="45" alt="REACT JS" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/nextlogo.png" height="45" alt="REACT JS" />
-<img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/nodelogo.png" height="45" alt="REACT JS" />
+<img width="40" height="40" alt="HTML" src="https://github.com/user-attachments/assets/60dbf976-1483-4ef8-aa71-c50f698ef906" /> html 
+<img width="40" height="40" alt="CSS" src="https://github.com/user-attachments/assets/092f0047-d42b-40fd-bef0-9b01f902028f" /> css
+<img width="40" height="40" alt="JS" src="https://github.com/user-attachments/assets/c0aebe3b-a4aa-4efa-8dce-6090ecf24ee4" /> js
+<img width="40" height="40" alt="REACT" src="https://github.com/user-attachments/assets/95ff9eb6-9e62-48e9-8228-048f60c0db4e" /> react
+<img width="40" height="40" alt="NEXT" src="https://github.com/user-attachments/assets/ac2f6563-b946-43ad-bb7c-c85bad6d3f3f" /> next 
+<img width="40" height="40" alt="NODE" src="https://github.com/user-attachments/assets/a71749f0-24c2-4444-8047-17b329a11b1d" /> node
+
+
 <br>
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/typeSlogo.png" height="43" alt="TypeScript" />
 <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/tecIcons/sasslogo.png" height="45" alt="Sassy CSS" />
