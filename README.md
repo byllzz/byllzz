@@ -10,7 +10,6 @@
 <p align="left">
   <img src="https://github.com/user-attachments/assets/7684816c-2bfb-447e-a894-c8bd4d3a6547" height="200" />
 </p>
-
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Frontend Developer & ...</li>
