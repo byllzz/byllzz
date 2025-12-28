@@ -42,7 +42,7 @@
 <br><br><br>
 
 <p align="left">
-<img  width="47" height="47" alt="HTML" src="https://github.com/user-attachments/assets/60dbf976-1483-4ef8-aa71-c47f698ef906" /> 
+<img width="47" height="47" alt="HTML" src="https://github.com/user-attachments/assets/60dbf976-1483-4ef8-aa71-c50f698ef906" />
 <img width="47" height="47" alt="CSS" src="https://github.com/user-attachments/assets/092f0047-d42b-40fd-bef0-9b01f902028f" />
 <img width="47" height="47" alt="JS" src="https://github.com/user-attachments/assets/c0aebe3b-a4aa-4efa-8dce-6090ecf24ee4" /> 
 <img width="47" height="47" alt="REACT" src="https://github.com/user-attachments/assets/95ff9eb6-9e62-48e9-8228-048f60c0db4e" /> 
@@ -65,10 +65,7 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=your-github-byllzz&color=blueviolet)
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byllzz&layout=compact&theme=tokyonight)
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byllzz&show_icons=true&theme=tokyonight)
+
 
