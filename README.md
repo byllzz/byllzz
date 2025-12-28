@@ -8,7 +8,7 @@
 
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/7684816c-2bfb-447e-a894-c8bd4d3a6547" width="200" align="left" alt="personal poster">
+  ![Image](https://github.com/user-attachments/assets/7684816c-2bfb-447e-a894-c8bd4d3a6547)
 </p>
 
 <ul align="right">
