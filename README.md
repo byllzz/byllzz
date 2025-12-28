@@ -27,17 +27,20 @@
 <img width="122"  alt="Connect to me" src="https://github.com/user-attachments/assets/94c86d36-35b4-47fb-a37d-f2aee8c059e8" />
 <br><br>
 
-<p align="left">
-     <a href="https://linkedin.com/in/byllzz" target="_blank">
-       <img width="45" height="45" alt="linkedin" src="https://github.com/user-attachments/assets/d845bbd2-187d-4c53-8903-da05b691260e" />
-     </a> &nbsp;
-      <a href="mailto:bilalmalikcodes@gmail.com" target="_blank"><img width="45" height="45" alt="gmail" src="https://github.com/user-attachments/assets/a24f1f52-39fe-4898-a02b-5cb4bae0dea0" /></a> &nbsp;
-    <a href="https://instagram.com/byllzzzz" target="_blank"> <img width="45" height="45" alt="Instagram" src="https://github.com/user-attachments/assets/535ae907-036e-43c1-b0bb-fa1cbace0e3c" /></a> &nbsp;
-  <a href="https://twitter.com/byllzzzz" target="_blank"> <img width="43" height="43" alt="twitter(X)" src="https://github.com/user-attachments/assets/fc94a20a-4851-4232-b4a1-d94b889f141f" /> </a> &nbsp;
-      <a href="https://bilalmalik-portfolio.netlify.app" target="_blank">
+
+  <p align="left">
+ <a href="https://www.linkedin.com/in/bilalmalk/" target="_blank"><img src="https://github.com/user-attachments/assets/d4c229ba-f177-4f0a-82b8-3a2df72acc11" alt="Linkdin" height="50" title="linkedin"></a>
+  <a href="mailto:bilalmlkdev@gmail.com" target="_blank"><img src="https://github.com/user-attachments/assets/89830ee9-e13d-4b3a-bc42-31237964e79d" alt="Gmail" height="50" title="Gmail"></a>
+  <a href="https://twitter.com/byllzz" target="_blank"><img src="https://github.com/user-attachments/assets/a2a12479-935d-47d4-8dcd-91ad5a71996d" alt="Twitter" height="50" title="Twitter"></a>
+ <a href="https://www.instagram.com/byllzz" target="_blank"><img src="https://github.com/user-attachments/assets/4b7367e0-1341-4c03-85e8-e06de8008f2d" alt="Instagram" height="50" title="Instagram"></a>
+  <a href="https://uiverse.io/profile/bilalmlk" target="_blank"><img  src="https://github.com/user-attachments/assets/c77330b3-d1a3-425c-a84f-781a2994602a" alt="uiverse" height="50" title="Uiverse"></a>
+ <a href="https://codepen.io/bilalmlk" target="_blank"><img src="https://github.com/user-attachments/assets/2e2c12d0-8674-46fb-b70a-df9f2e0b1771" alt="Codepen" height="50" title="Codepen"></a>
+ <a href="#" target="_blank">
         <img width="47" height="47" alt="personal avatar" src="https://github.com/user-attachments/assets/8fa979bd-9b12-41f3-bb17-4eee495402e1" />
       </a>
 </p>
+     
+
 
 <br>
 <img  width="140"  alt="skills I have" src="https://github.com/user-attachments/assets/94643443-aabb-464b-883a-6f1c7219a426" />
