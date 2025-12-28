@@ -64,12 +64,6 @@
 
 <br>
 
-<p align="left">
-<img  width="156" height="35"  alt="Image" src="https://github.com/user-attachments/assets/53b6165a-3a14-4f6b-a12c-3a46553c1e3f" />
- </p>
-
-<br>
-
 ![](https://komarev.com/ghpvc/?username=your-github-byllzz&color=blueviolet)
 
 ![](https://github-readme-stats.vercel.app/api?username=byllzz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
