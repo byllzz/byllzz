@@ -8,7 +8,7 @@
 
 
 <p align="left">
-<img src="https://github.com/user-attachments/assets/7684816c-2bfb-447e-a894-c8bd4d3a6547" width="200" />
+<img  width="200" align="left"  src="https://github.com/user-attachments/assets/7684816c-2bfb-447e-a894-c8bd4d3a6547" />
   </p>
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
