@@ -33,7 +33,7 @@
     <a href="https://instagram.com/byllzzzz" target="_blank"> <img width="45" height="45" alt="Instagram" src="https://github.com/user-attachments/assets/535ae907-036e-43c1-b0bb-fa1cbace0e3c" /></a> &nbsp;
   <a href="https://twitter.com/byllzzzz" target="_blank"> <img width="43" height="43" alt="twitter(X)" src="https://github.com/user-attachments/assets/fc94a20a-4851-4232-b4a1-d94b889f141f" /> </a> &nbsp;
       <a href="https://bilalmalik-portfolio.netlify.app" target="_blank">
-        <img width="50" height="50" alt="personal avatar" src="https://github.com/user-attachments/assets/8fa979bd-9b12-41f3-bb17-4eee495402e1" />
+        <img width="47" height="47" alt="personal avatar" src="https://github.com/user-attachments/assets/8fa979bd-9b12-41f3-bb17-4eee495402e1" />
       </a>
 </p>
 
@@ -42,30 +42,31 @@
 <br><br><br>
 
 <p align="left">
-<img width="50" height="50" alt="HTML" src="https://github.com/user-attachments/assets/60dbf976-1483-4ef8-aa71-c50f698ef906" /> 
-<img width="50" height="50" alt="CSS" src="https://github.com/user-attachments/assets/092f0047-d42b-40fd-bef0-9b01f902028f" />
-<img width="50" height="50" alt="JS" src="https://github.com/user-attachments/assets/c0aebe3b-a4aa-4efa-8dce-6090ecf24ee4" /> 
-<img width="50" height="50" alt="REACT" src="https://github.com/user-attachments/assets/95ff9eb6-9e62-48e9-8228-048f60c0db4e" /> 
-<img width="50" height="50" alt="NEXT" src="https://github.com/user-attachments/assets/ac2f6563-b946-43ad-bb7c-c85bad6d3f3f" />  
-<img width="50" height="50" alt="NODE" src="https://github.com/user-attachments/assets/a71749f0-24c2-4444-8047-17b329a11b1d" />
+<img width="47" height="47" alt="HTML" src="https://github.com/user-attachments/assets/60dbf976-1483-4ef8-aa71-c47f698ef906" /> 
+<img width="47" height="47" alt="CSS" src="https://github.com/user-attachments/assets/092f0047-d42b-40fd-bef0-9b01f902028f" />
+<img width="47" height="47" alt="JS" src="https://github.com/user-attachments/assets/c0aebe3b-a4aa-4efa-8dce-6090ecf24ee4" /> 
+<img width="47" height="47" alt="REACT" src="https://github.com/user-attachments/assets/95ff9eb6-9e62-48e9-8228-048f60c0db4e" /> 
+<img width="47" height="47" alt="NEXT" src="https://github.com/user-attachments/assets/ac2f6563-b946-43ad-bb7c-c85bad6d3f3f" />  
+<img width="47" height="47" alt="NODE" src="https://github.com/user-attachments/assets/a71749f0-24c2-4444-8047-17b329a11b1d" />
 <br>
-<img width="50" height="50" alt="BOOTSTRAP" src="https://github.com/user-attachments/assets/d5caa56a-cf93-43b6-94b9-ed4a707489d1" />
-<img width="50" height="50" alt="SCSS" src="https://github.com/user-attachments/assets/9fefd66c-2ce5-4d83-a9ab-6d524ce5928c" />
+<img width="47" height="47" alt="BOOTSTRAP" src="https://github.com/user-attachments/assets/d5caa56a-cf93-43b6-94b9-ed4a707489d1" />
+<img width="47" height="47" alt="SCSS" src="https://github.com/user-attachments/assets/9fefd66c-2ce5-4d83-a9ab-6d524ce5928c" />
 <br>
-<img width="50" height="50" alt="GIT" src="https://github.com/user-attachments/assets/bb7ba64e-d9b3-48e1-ac74-610df4a1ca63" />
-<img width="50" height="50" alt="GITHUB" src="https://github.com/user-attachments/assets/e2e36f46-5578-4a5d-92bc-5ae0e26eecae" /> 
-<img width="50" height="50" alt="NETLIFY" src="https://github.com/user-attachments/assets/b22418e4-c1df-416f-8b80-4c6155901e95" />
+<img width="47" height="47" alt="GIT" src="https://github.com/user-attachments/assets/bb7ba64e-d9b3-48e1-ac74-610df4a1ca63" />
+<img width="47" height="47" alt="GITHUB" src="https://github.com/user-attachments/assets/e2e36f46-5578-4a5d-92bc-5ae0e26eecae" /> 
+<img width="47" height="47" alt="NETLIFY" src="https://github.com/user-attachments/assets/b22418e4-c1df-416f-8b80-4c6155901e95" />
 <br>
-<img width="48" height="48" alt="MATERIAL UI" src="https://github.com/user-attachments/assets/597f00ab-9141-4e04-b4a2-d35734d861ce" />
-<img width="50" height="50" alt="tailwind" src="https://github.com/user-attachments/assets/2551f462-2b2a-430a-a92f-9130c7ed9d5f" /> 
+<img width="45" height="45" alt="MATERIAL UI" src="https://github.com/user-attachments/assets/597f00ab-9141-4e04-b4a2-d35734d861ce" />
+<img width="47" height="47" alt="tailwind" src="https://github.com/user-attachments/assets/2551f462-2b2a-430a-a92f-9130c7ed9d5f" /> 
 <br>
-<img width="50" height="50" alt="FIGMA" src="https://github.com/user-attachments/assets/1ce82bc4-2bf7-4745-95d0-bd9d0dac2069" />
+<img width="47" height="47" alt="FIGMA" src="https://github.com/user-attachments/assets/1ce82bc4-2bf7-4745-95d0-bd9d0dac2069" />
 </p>
 
 <br>
 
 ![](https://komarev.com/ghpvc/?username=your-github-byllzz&color=blueviolet)
 
-![](https://github-readme-stats.vercel.app/api?username=byllzz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byllzz&layout=compact&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=byllzz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
