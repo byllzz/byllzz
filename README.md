@@ -8,7 +8,7 @@
 
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/8e0ff0f4-26eb-4d3a-8ed7-3364edb4c7ab" width="200" align="left" alt="personal poster">
+  <img src="https://github.com/user-attachments/assets/7684816c-2bfb-447e-a894-c8bd4d3a6547" width="200" align="left" alt="personal poster">
 </p>
 
 <ul align="right">
