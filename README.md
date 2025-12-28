@@ -29,7 +29,6 @@
      <a href="https://linkedin.com/in/byllzz" target="_blank">
        <img width="50" height="50" alt="linkedin" src="https://github.com/user-attachments/assets/d845bbd2-187d-4c53-8903-da05b691260e" />
      </a> &nbsp;
-  
       <a href="mailto:bilalmalikcodes@gmail.com" target="_blank"><img width="50" height="50" alt="gmail" src="https://github.com/user-attachments/assets/a24f1f52-39fe-4898-a02b-5cb4bae0dea0" /></a> &nbsp;
     <a href="https://instagram.com/byllzzzz" target="_blank"> <img width="50" height="50" alt="Instagram" src="https://github.com/user-attachments/assets/535ae907-036e-43c1-b0bb-fa1cbace0e3c" /></a> &nbsp;
   <a href="https://twitter.com/byllzzzz" target="_blank"> <img width="48" height="48" alt="twitter(X)" src="https://github.com/user-attachments/assets/fc94a20a-4851-4232-b4a1-d94b889f141f" /> </a> &nbsp;
