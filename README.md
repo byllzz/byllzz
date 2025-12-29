@@ -4,7 +4,9 @@
 
 <a href="https://bilalmalik-portfolio.netlify.app" target="_blank" align="left"><img width="122"  alt="who I am" src="https://github.com/user-attachments/assets/e94abb1b-85b8-4f39-9861-6a8920058fd0" /></a>
 
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=byllzz&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/byllzz)
+
 
 
 <p align="left">
