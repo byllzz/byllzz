@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&width=435&lines=%22Reading,+writing,+and+deploying.%22" alt="Typing SVG" />
 </h2>
 
-<a href="https://bilalmalik-portfolio.netlify.app" target="_blank" align="left"><img width="122"  alt="who I am" src="https://github.com/user-attachments/assets/e94abb1b-85b8-4f39-9861-6a8920058fd0" /></a>
+<a href="https://byllzz.netlify.app" target="_blank" align="left"><img width="122"  alt="who I am" src="https://github.com/user-attachments/assets/e94abb1b-85b8-4f39-9861-6a8920058fd0" /></a>
 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=byllzz&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/byllzz)
@@ -18,7 +18,7 @@
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Concept Artist ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚧 Still building new things & learning from them ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;💞️ I’m looking for collaborations and making products ...</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit <a href="https://bilalmalik-portfolio.netlify.app" target="_blank">Portfolio</a> to know more about me ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit <a href="https://byllzz.netlify.app" target="_blank">Portfolio</a> to know more about me ...</li>
 </ul>
 
 <br><br><br>
@@ -36,8 +36,8 @@
  <a href="https://www.instagram.com/byllzz" target="_blank"><img src="https://github.com/user-attachments/assets/4b7367e0-1341-4c03-85e8-e06de8008f2d" alt="Instagram" height="50" title="Instagram"></a>
   <a href="https://uiverse.io/profile/bilalmlk" target="_blank"><img  src="https://github.com/user-attachments/assets/c77330b3-d1a3-425c-a84f-781a2994602a" alt="uiverse" height="50" title="Uiverse"></a>
  <a href="https://codepen.io/bilalmlk" target="_blank"><img src="https://github.com/user-attachments/assets/2e2c12d0-8674-46fb-b70a-df9f2e0b1771" alt="Codepen" height="50" title="Codepen"></a>
- <a href="#" target="_blank">
-       <img width="50" height="50" alt="Personal Avatar" src="https://github.com/user-attachments/assets/ee22b029-0b08-490d-9426-319accddded3" />
+ <a href="https:://byllzz.netlify.app" target="_blank">
+       <img width="48" height="50" alt="Personal Avatar" src="https://github.com/user-attachments/assets/ee22b029-0b08-490d-9426-319accddded3" />
       </a>
 </p>
      
