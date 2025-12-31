@@ -36,7 +36,7 @@
  <a href="https://www.instagram.com/byllzz" target="_blank"><img src="https://github.com/user-attachments/assets/4b7367e0-1341-4c03-85e8-e06de8008f2d" alt="Instagram" height="50" title="Instagram"></a>
   <a href="https://uiverse.io/profile/bilalmlk" target="_blank"><img  src="https://github.com/user-attachments/assets/c77330b3-d1a3-425c-a84f-781a2994602a" alt="uiverse" height="50" title="Uiverse"></a>
  <a href="https://codepen.io/bilalmlk" target="_blank"><img src="https://github.com/user-attachments/assets/2e2c12d0-8674-46fb-b70a-df9f2e0b1771" alt="Codepen" height="50" title="Codepen"></a>
- <a href="https:://byllzz.netlify.app" target="_blank">
+ <a href="https://byllzz.netlify.app" target="_blank">
        <img width="48" height="50" alt="Personal Avatar" src="https://github.com/user-attachments/assets/ee22b029-0b08-490d-9426-319accddded3" />
       </a>
 </p>
