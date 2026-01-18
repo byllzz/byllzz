@@ -74,8 +74,6 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=byllzz&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="byllzz's GitHub stats" />
 
-<br/>
-
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byllzz&theme=dark&layout=compact&hide_border=false" alt="byllzz's Top Languages" />
 
 
