@@ -72,9 +72,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-byllzz&color=blueviolet) <br>
 
-<img src="https://githubcard.com/api/stats/byllzz?theme=dark&show_icons=true" alt="GitHub Stats" />
-
-<img src="https://githubcard.com/api/langs/byllzz?theme=dark&layout=compact" alt="Top Languages" />
-
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=byllzz&theme=dark&show_icons=true)
 
 
