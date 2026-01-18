@@ -72,9 +72,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-byllzz&color=blueviolet) <br>
 
-![](https://github-readme-stats.vercel.app/api?username=byllzz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=byllzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="byllzz's GitHub stats" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=byllzz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byllzz&theme=dark&layout=compact" alt="Top Languages" />
 
 
 
