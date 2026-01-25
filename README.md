@@ -30,11 +30,11 @@
 <br><br><br>
 
   <p align="left">
- <a href="https://www.linkedin.com/in/bilalmalk/" target="_blank"><img src="https://github.com/user-attachments/assets/d4c229ba-f177-4f0a-82b8-3a2df72acc11" alt="Linkdin" height="50" title="linkedin"></a>
+ <a href="https://www.linkedin.com/in/bilalmlk/" target="_blank"><img src="https://github.com/user-attachments/assets/d4c229ba-f177-4f0a-82b8-3a2df72acc11" alt="Linkdin" height="50" title="linkedin"></a>
   <a href="mailto:bilalmlkdev@gmail.com" target="_blank"><img src="https://github.com/user-attachments/assets/89830ee9-e13d-4b3a-bc42-31237964e79d" alt="Gmail" height="50" title="Gmail"></a>
   <a href="https://twitter.com/byllzz" target="_blank"><img src="https://github.com/user-attachments/assets/a2a12479-935d-47d4-8dcd-91ad5a71996d" alt="Twitter" height="50" title="Twitter"></a>
  <a href="https://www.instagram.com/byllzz" target="_blank"><img src="https://github.com/user-attachments/assets/4b7367e0-1341-4c03-85e8-e06de8008f2d" alt="Instagram" height="50" title="Instagram"></a>
-  <a href="https://uiverse.io/profile/bilalmlk" target="_blank"><img  src="https://github.com/user-attachments/assets/c77330b3-d1a3-425c-a84f-781a2994602a" alt="uiverse" height="50" title="Uiverse"></a>
+  <a href="https://uiverse.io/profile/byllzz" target="_blank"><img  src="https://github.com/user-attachments/assets/c77330b3-d1a3-425c-a84f-781a2994602a" alt="uiverse" height="50" title="Uiverse"></a>
  <a href="https://codepen.io/byllzz" target="_blank"><img src="https://github.com/user-attachments/assets/2e2c12d0-8674-46fb-b70a-df9f2e0b1771" alt="Codepen" height="50" title="Codepen"></a>
  <a href="https://bilalmlk.vercel.app" target="_blank">
        <img width="48" height="50" alt="Personal Avatar" src="https://github.com/user-attachments/assets/ee22b029-0b08-490d-9426-319accddded3" />
