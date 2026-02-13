@@ -56,7 +56,7 @@
 <img width="47" height="47" alt="NODE" src="https://github.com/user-attachments/assets/a71749f0-24c2-4444-8047-17b329a11b1d" />
 <br>
 <img width="47" height="47" alt="BOOTSTRAP" src="https://github.com/user-attachments/assets/d5caa56a-cf93-43b6-94b9-ed4a707489d1" />
-<img width="47" height="47" alt="SCSS" src="https://github.com/user-attachments/assets/9fefd66c-2ce5-4d83-a9ab-6d524ce5928c" />
+<!-- <img width="47" height="47" alt="SCSS" src="https://github.com/user-attachments/assets/9fefd66c-2ce5-4d83-a9ab-6d524ce5928c" /> -->
 <br>
 <img width="47" height="47" alt="GIT" src="https://github.com/user-attachments/assets/bb7ba64e-d9b3-48e1-ac74-610df4a1ca63" />
 <img width="47" height="47" alt="GITHUB" src="https://github.com/user-attachments/assets/e2e36f46-5578-4a5d-92bc-5ae0e26eecae" />
