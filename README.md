@@ -64,7 +64,7 @@
 <!--sass -->
 <img  height="50" alt="Sass" title="sass" src="https://github.com/user-attachments/assets/3dd63b5b-f6e1-4ae9-86bf-b4463fd92145" />
 <!--tailwind -->
-<img title="tw" height="50" alt="Tailwind Css" src="https://github.com/user-attachments/assets/37594852-3723-41ad-9685-3e28bc810eea" />
+img title="tailwind" height="50" alt="Tailwind Css"src="https://github.com/user-attachments/assets/a9f4b68f-b38e-4c1c-a294-8ad66acdfcc3" />
 <br>
   <!-figma -->
   <img  height="50" alt="figma" title="Figma" src="https://github.com/user-attachments/assets/a9f8b1c2-9511-42f8-a758-05a1a5ae856e" />
