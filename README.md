@@ -62,9 +62,9 @@
 <img  height="50" alt="Node Js" title="node js" src="https://github.com/user-attachments/assets/70190868-7331-47e7-854b-9f70151a391d" />
 <br>
 <!--sass -->
-<img  height="50" alt="Sass" title="sass" src="https://github.com/user-attachments/assets/3dd63b5b-f6e1-4ae9-86bf-b4463fd92145" />
+<img title="Sass"  height="50" alt="Sass" src="https://github.com/user-attachments/assets/27be3195-509d-4d03-a1f1-5920775fcfe5" />
 <!--tailwind -->
-img title="tailwind" height="50" alt="Tailwind Css"src="https://github.com/user-attachments/assets/a9f4b68f-b38e-4c1c-a294-8ad66acdfcc3" />
+<img title="tailwind" height="50" alt="Tailwind Css"src="https://github.com/user-attachments/assets/a9f4b68f-b38e-4c1c-a294-8ad66acdfcc3" />
 <br>
   <!-figma -->
   <img  height="50" alt="figma" title="Figma" src="https://github.com/user-attachments/assets/a9f8b1c2-9511-42f8-a758-05a1a5ae856e" />
