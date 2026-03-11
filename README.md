@@ -70,9 +70,13 @@
 
 <br>
 
+<img width="156" height="33" alt="Image" src="https://github.com/user-attachments/assets/768e9a22-0594-489c-89b5-296a71b7e1c5" />
+
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-byllzz&color=blueviolet) <br>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=byllzz&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="byllzz's GitHub stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=byllzz&theme=dark&show_icons=false&include_all_commits=true&count_private=true" alt="byllzz's GitHub stats" />
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byllzz&theme=dark&layout=compact&hide_border=false" alt="byllzz's Top Languages" />
 
