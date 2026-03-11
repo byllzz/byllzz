@@ -48,11 +48,18 @@
 <br><br><br>
 
 <p align="left">
-<img width="47" height="47" alt="HTML" src="https://github.com/user-attachments/assets/60dbf976-1483-4ef8-aa71-c50f698ef906" />
-<img width="47" height="47" alt="CSS" src="https://github.com/user-attachments/assets/092f0047-d42b-40fd-bef0-9b01f902028f" />
-<img width="47" height="47" alt="JS" src="https://github.com/user-attachments/assets/c0aebe3b-a4aa-4efa-8dce-6090ecf24ee4" />
-<img width="47" height="47" alt="REACT" src="https://github.com/user-attachments/assets/95ff9eb6-9e62-48e9-8228-048f60c0db4e" />
-<img width="45" height="47" alt="NEXT" src="https://github.com/user-attachments/assets/ac2f6563-b946-43ad-bb7c-c85bad6d3f3f" />
+<!-- js -->
+  <img alt="Javascript" height="50" title="JS" src="https://github.com/user-attachments/assets/b5cf1dd1-4037-4979-8fe2-80fe1a4ffceb" />
+  <!-- css-->
+<img alt="Css" height="50" title="css" alt="Image" src="https://github.com/user-attachments/assets/e73bfda8-5d4a-4496-9a93-cf260c2f4f95" />
+  <!--html -->
+<img alt="HTML" height="50" title="html"  src="https://github.com/user-attachments/assets/0e5fd99d-b0a2-4f77-ae4c-d0173aad1dc9" />
+  <!--react -->
+<img alt="React" height="50" title="reactjs" src="https://github.com/user-attachments/assets/d8b25b5a-3705-4b65-a66b-5c4706f3527b" />
+  <!--next js -->
+<img alt="Next JS" height="50" title="nextjs" src="https://github.com/user-attachments/assets/05681624-7f30-48f9-b447-d01259ac98d8" />
+  <!--node js -->
+<img  height="50" alt="Node Js" title="node js" src="https://github.com/user-attachments/assets/70190868-7331-47e7-854b-9f70151a391d" />
 <br>
 <img width="47" height="47" alt="BOOTSTRAP" src="https://github.com/user-attachments/assets/d5caa56a-cf93-43b6-94b9-ed4a707489d1" />
 <img width="47" height="47" alt="NODE" src="https://github.com/user-attachments/assets/a71749f0-24c2-4444-8047-17b329a11b1d" />
