@@ -65,14 +65,26 @@
 <img width="47" height="47" alt="NODE" src="https://github.com/user-attachments/assets/a71749f0-24c2-4444-8047-17b329a11b1d" />
 <!-- <img width="47" height="47" alt="SCSS" src="https://github.com/user-attachments/assets/9fefd66c-2ce5-4d83-a9ab-6d524ce5928c" /> -->
 <br>
-<img width="47" height="47" alt="GIT" src="https://github.com/user-attachments/assets/bb7ba64e-d9b3-48e1-ac74-610df4a1ca63" />
-<img width="47" height="47" alt="GITHUB" src="https://github.com/user-attachments/assets/e2e36f46-5578-4a5d-92bc-5ae0e26eecae" />
-<img width="47" height="47" alt="NETLIFY" src="https://github.com/user-attachments/assets/b22418e4-c1df-416f-8b80-4c6155901e95" />
-<br>
-<img width="45" height="45" alt="MATERIAL UI" src="https://github.com/user-attachments/assets/597f00ab-9141-4e04-b4a2-d35734d861ce" />
-<img width="47" height="47" alt="tailwind" src="https://github.com/user-attachments/assets/2551f462-2b2a-430a-a92f-9130c7ed9d5f" />
-<br>
-<img width="47" height="47" alt="FIGMA" src="https://github.com/user-attachments/assets/1ce82bc4-2bf7-4745-95d0-bd9d0dac2069" />
+ <!--Bootstrap --> 
+<img  height="50" alt="Bootstrap" title="bootstrap" src="https://github.com/user-attachments/assets/356a1877-96ee-47eb-aa1d-21852ffae76e" />
+  <!--sass -->
+<img  height="50" alt="Sass" title="sass" src="https://github.com/user-attachments/assets/3dd63b5b-f6e1-4ae9-86bf-b4463fd92145" />
+  <br>
+  <!-figma -->
+  <img  height="50" alt="figma" title="Figma" src="https://github.com/user-attachments/assets/a9f8b1c2-9511-42f8-a758-05a1a5ae856e" />
+  <!-- ps -->
+  <img  height="50" alt="PhotoShop" title="photoshop" src="https://github.com/user-attachments/assets/6d4a61c1-e107-4683-b10e-1684690af1dc" />
+  <!-- ai -->
+  <img  height="50" title="ai" alt="Image" src="https://github.com/user-attachments/assets/5e68e6cd-4ee6-47f3-a057-58d008b5e252" />
+  <br>
+  <!-- github -->
+  <img  height="50" title="github" alt="Github" src="https://github.com/user-attachments/assets/84820f72-ae55-4962-8447-eee7d1b79a4a" />
+  <!-- git -->
+  <img height="50" title="git" alt="Git" src="https://github.com/user-attachments/assets/401ebf1e-3515-4527-be46-d225523fa869" />
+  <!-- vercel -->
+  <br>
+   <!--tailwind -->
+  <img title="tw" height="50" alt="Tailwind Css" src="https://github.com/user-attachments/assets/37594852-3723-41ad-9685-3e28bc810eea" />
 </p>
 
 <br>
