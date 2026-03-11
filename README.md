@@ -26,7 +26,7 @@
 <a href="https://wakatime.com/@64a47f57-673b-4f9d-84da-f5d0eb9e1fc5"><img src="https://wakatime.com/badge/user/64a47f57-673b-4f9d-84da-f5d0eb9e1fc5.svg?color=9B72FF" alt="Total time coded since Dec 28 2025" /></a>
 <br>
 
-<img  width="122"  alt="Connect to me" src="https://github.com/user-attachments/assets/94c86d36-35b4-47fb-a37d-f2aee8c059e8" />
+<img  width="112"  alt="Connect to me" src="https://github.com/user-attachments/assets/94c86d36-35b4-47fb-a37d-f2aee8c059e8" />
 <br><br><br>
 
   <p align="left">
@@ -44,7 +44,7 @@
 
 
 <br>
-<img  width="140" height="32"  alt="skills I have" src="https://github.com/user-attachments/assets/94643443-aabb-464b-883a-6f1c7219a426" />
+<img  width="140" height="35"  alt="skills I have" src="https://github.com/user-attachments/assets/94643443-aabb-464b-883a-6f1c7219a426" />
 <br><br><br>
 
 <p align="left">
