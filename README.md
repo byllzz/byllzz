@@ -2,13 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&width=435&lines=%22Reading,+writing,+and+deploying.%22" alt="Typing SVG" />
 </h2>
 
+<!--About me -->
 <a href="https://bilalmlkdev.vercel.app" target="_blank" align="left"><img width="128"  alt="who I am" src="https://github.com/user-attachments/assets/e94abb1b-85b8-4f39-9861-6a8920058fd0" /></a>
-
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=byllzz&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/byllzz)
 
-
-
+<!--My Info -->
 <p align="left">
 <img  width="200" align="left"  src="https://github.com/user-attachments/assets/7684816c-2bfb-447e-a894-c8bd4d3a6547" />
   </p>
@@ -23,17 +22,19 @@
 
 <br><br>
 
+<!--waketime badge-->
 <a href="https://wakatime.com/@64a47f57-673b-4f9d-84da-f5d0eb9e1fc5"><img src="https://wakatime.com/badge/user/64a47f57-673b-4f9d-84da-f5d0eb9e1fc5.svg?color=9B72FF" alt="Total time coded since Dec 28 2025" /></a>
 <br>
 
 <img  width="125" alt="Connect to me" src="https://github.com/user-attachments/assets/94c86d36-35b4-47fb-a37d-f2aee8c059e8" />
 <br><br><br>
 
+<!--my contact links -->
   <p align="left">
- <a href="https://www.linkedin.com/in/bilalmlk/" target="_blank"><img src="https://github.com/user-attachments/assets/d4c229ba-f177-4f0a-82b8-3a2df72acc11" alt="Linkdin" height="50" title="linkedin"></a>
+ <a href="https://www.linkedin.com/" target="_blank"><img src="https://github.com/user-attachments/assets/d4c229ba-f177-4f0a-82b8-3a2df72acc11" alt="Linkdin" height="50" title="linkedin"></a>
   <a href="mailto:bilalmlkdev@gmail.com" target="_blank"><img src="https://github.com/user-attachments/assets/89830ee9-e13d-4b3a-bc42-31237964e79d" alt="Gmail" height="50" title="Gmail"></a>
   <a href="https://twitter.com/bilalmlkdev" target="_blank"><img src="https://github.com/user-attachments/assets/a2a12479-935d-47d4-8dcd-91ad5a71996d" alt="Twitter" height="50" title="Twitter"></a>
- <a href="https://www.instagram.com/bilalmlkdev" target="_blank"><img src="https://github.com/user-attachments/assets/4b7367e0-1341-4c03-85e8-e06de8008f2d" alt="Instagram" height="50" title="Instagram"></a>
+ <a href="https://www.instagram.com/" target="_blank"><img src="https://github.com/user-attachments/assets/4b7367e0-1341-4c03-85e8-e06de8008f2d" alt="Instagram" height="50" title="Instagram"></a>
   <a href="https://uiverse.io/profile/byllzz" target="_blank"><img  src="https://github.com/user-attachments/assets/c77330b3-d1a3-425c-a84f-781a2994602a" alt="uiverse" height="50" title="Uiverse"></a>
  <a href="https://codepen.io/byllzz" target="_blank"><img src="https://github.com/user-attachments/assets/2e2c12d0-8674-46fb-b70a-df9f2e0b1771" alt="Codepen" height="50" title="Codepen"></a>
  <a href="https://bilalmlkdev.vercel.app" target="_blank">
@@ -41,12 +42,11 @@
       </a>
 </p>
 
-
-
 <br>
 <img  width="140" height="35"  alt="skills I have" src="https://github.com/user-attachments/assets/94643443-aabb-464b-883a-6f1c7219a426" />
 <br><br><br>
 
+<!--skills -->
 <p align="left">
 <!-- js -->
   <img alt="Javascript" height="50" title="JS" src="https://github.com/user-attachments/assets/b5cf1dd1-4037-4979-8fe2-80fe1a4ffceb" />
@@ -80,10 +80,10 @@
   <!--Bootstrap --> 
 <img  height="50" alt="Bootstrap" title="bootstrap" src="https://github.com/user-attachments/assets/356a1877-96ee-47eb-aa1d-21852ffae76e" />
   <br>
-  <!-- netlify-->
-  <img  height="50" title="netlify" alt="Netlify" src="https://github.com/user-attachments/assets/4d7a8808-16d1-4b42-83c2-0c8ea4cdf67d" />
     <!-- vercel -->
  <img  height="50" alt="Vercel" title="vercel" src="https://github.com/user-attachments/assets/cabf3e30-2289-46c2-9958-2858489c2d86" />
+    <!-- netlify-->
+  <img  height="50" title="netlify" alt="Netlify" src="https://github.com/user-attachments/assets/4d7a8808-16d1-4b42-83c2-0c8ea4cdf67d" />
   <br>
     <!-- material UI -->
   <img  height="50" alt="Material UI" title="material" src="https://github.com/user-attachments/assets/69766c88-8af1-4d50-b28c-6ea8d9c541ed" />
