@@ -78,7 +78,7 @@
   <!-- git -->
   <img height="50" title="git" alt="Git" src="https://github.com/user-attachments/assets/401ebf1e-3515-4527-be46-d225523fa869" />
   <!-- vercel -->
-  <img  height="50" alt="Vercel" title="vercel" src="https://github.com/user-attachments/assets/0bde8102-9ce9-47e2-a0b5-839a68974671" />
+ <img  height="50" alt="Vercel" title="vercel" src="https://github.com/user-attachments/assets/cabf3e30-2289-46c2-9958-2858489c2d86" />
   <br>
 <!--Bootstrap --> 
 <img  height="50" alt="Bootstrap" title="bootstrap" src="https://github.com/user-attachments/assets/356a1877-96ee-47eb-aa1d-21852ffae76e" />
