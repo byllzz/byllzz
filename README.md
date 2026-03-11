@@ -61,15 +61,11 @@
   <!--node js -->
 <img  height="50" alt="Node Js" title="node js" src="https://github.com/user-attachments/assets/70190868-7331-47e7-854b-9f70151a391d" />
 <br>
-<img width="47" height="47" alt="BOOTSTRAP" src="https://github.com/user-attachments/assets/d5caa56a-cf93-43b6-94b9-ed4a707489d1" />
-<img width="47" height="47" alt="NODE" src="https://github.com/user-attachments/assets/a71749f0-24c2-4444-8047-17b329a11b1d" />
-<!-- <img width="47" height="47" alt="SCSS" src="https://github.com/user-attachments/assets/9fefd66c-2ce5-4d83-a9ab-6d524ce5928c" /> -->
-<br>
- <!--Bootstrap --> 
-<img  height="50" alt="Bootstrap" title="bootstrap" src="https://github.com/user-attachments/assets/356a1877-96ee-47eb-aa1d-21852ffae76e" />
-  <!--sass -->
+<!--sass -->
 <img  height="50" alt="Sass" title="sass" src="https://github.com/user-attachments/assets/3dd63b5b-f6e1-4ae9-86bf-b4463fd92145" />
-  <br>
+<!--tailwind -->
+<img title="tw" height="50" alt="Tailwind Css" src="https://github.com/user-attachments/assets/37594852-3723-41ad-9685-3e28bc810eea" />
+<br>
   <!-figma -->
   <img  height="50" alt="figma" title="Figma" src="https://github.com/user-attachments/assets/a9f8b1c2-9511-42f8-a758-05a1a5ae856e" />
   <!-- ps -->
@@ -82,9 +78,12 @@
   <!-- git -->
   <img height="50" title="git" alt="Git" src="https://github.com/user-attachments/assets/401ebf1e-3515-4527-be46-d225523fa869" />
   <!-- vercel -->
+  <img  height="50" alt="Vercel" title="vercel" src="https://github.com/user-attachments/assets/0bde8102-9ce9-47e2-a0b5-839a68974671" />
   <br>
-   <!--tailwind -->
-  <img title="tw" height="50" alt="Tailwind Css" src="https://github.com/user-attachments/assets/37594852-3723-41ad-9685-3e28bc810eea" />
+<!--Bootstrap --> 
+<img  height="50" alt="Bootstrap" title="bootstrap" src="https://github.com/user-attachments/assets/356a1877-96ee-47eb-aa1d-21852ffae76e" />
+  <!-- material UI -->
+  <img  height="50" alt="Material UI" title="material" src="https://github.com/user-attachments/assets/69766c88-8af1-4d50-b28c-6ea8d9c541ed" />
 </p>
 
 <br>
