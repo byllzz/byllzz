@@ -78,9 +78,8 @@
   <!-- git -->
   <img height="50" title="git" alt="Git" src="https://github.com/user-attachments/assets/401ebf1e-3515-4527-be46-d225523fa869" />
   <!--Bootstrap --> 
-   <img  height="50" alt="Bootstrap" title="bootstrap" src="https://github.com/user-attachments/assets/356a1877-96ee-47eb-aa1d-2 />
+   <img  height="50" alt="Bootstrap" title="bootstrap" src="https://github.com/user-attachments/assets/356a1877-96ee-47eb-aa1d-21852ffae76e" />
   <br>
-     
   <!-- material UI -->
   <img  height="50" alt="Material UI" title="material" src="https://github.com/user-attachments/assets/69766c88-8af1-4d50-b28c-6ea8d9c541ed" />
 </p>
