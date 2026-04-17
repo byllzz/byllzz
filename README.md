@@ -28,6 +28,7 @@
  
 <p aling="left"><img  width="125" alt="Connect to me" src="https://github.com/user-attachments/assets/94c86d36-35b4-47fb-a37d-f2aee8c059e8" /></p>
 
+
 <p align="left" style="white-space: wrap;">
   
  <a href="https://www.linkedin.com/" target="_blank"><img src="https://github.com/user-attachments/assets/d4c229ba-f177-4f0a-82b8-3a2df72acc11" alt="Linkdin" height="50" title="linkedin"></a>
