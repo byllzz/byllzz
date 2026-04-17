@@ -18,7 +18,7 @@
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚧 Still building new things & learning from them ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;💞️ I’m looking for collaborations and making products ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit <a href="https://bilalmlkdev.vercel.app" target="_blank">Portfolio</a> to know more about me ...</li>
-</ul>
+</ul> <br>
 
 
 <!--waketime badge-->
