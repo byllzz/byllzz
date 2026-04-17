@@ -21,7 +21,6 @@
 </ul>
 
 <br> 
-</br>
 
 <!--waketime badge-->
 <a href="https://wakatime.com/@64a47f57-673b-4f9d-84da-f5d0eb9e1fc5"><img src="https://wakatime.com/badge/user/64a47f57-673b-4f9d-84da-f5d0eb9e1fc5.svg?color=9B72FF" alt="Total time coded since Dec 28 2025" /></a>
