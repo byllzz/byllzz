@@ -23,7 +23,7 @@
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit <a href="https://bilalmlkdev.vercel.app" target="_blank">Portfolio</a> to know more about me ...</li>
 </ul>
 
-<br><br>
+</br></br>
 
 <!--waketime badge-->
 <a href="https://wakatime.com/@64a47f57-673b-4f9d-84da-f5d0eb9e1fc5">
