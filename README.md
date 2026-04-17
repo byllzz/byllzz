@@ -30,7 +30,7 @@
   <img src="https://wakatime.com/badge/user/64a47f57-673b-4f9d-84da-f5d0eb9e1fc5.svg?color=9B72FF" alt="Total time coded since Dec 28 2025" />
 </a>
 
-<br><br>
+<br> &nbsp;
 
 <img width="125" alt="Connect to me" src="https://github.com/user-attachments/assets/94c86d36-35b4-47fb-a37d-f2aee8c059e8" />
 
@@ -86,7 +86,7 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-byllzz&color=blueviolet)
-
+&nbsp;
 <br>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=byllzz&theme=dark&show_icons=false&include_all_commits=true&count_private=true" />
