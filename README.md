@@ -62,7 +62,7 @@
   <!--node js -->
 <img  height="50" alt="Node Js" title="node js" src="https://github.com/user-attachments/assets/70190868-7331-47e7-854b-9f70151a391d" />
 <br>
-  <!-- material -->
+  <!-- material UI-->
   <img  height="50" alt="Material UI" title="material" src="https://github.com/user-attachments/assets/69766c88-8af1-4d50-b28c-6ea8d9c541ed" />
 <!--sass -->
 <img title="Sass"  height="47" alt="Sass" src="https://github.com/user-attachments/assets/27be3195-509d-4d03-a1f1-5920775fcfe5" />
