@@ -47,7 +47,7 @@
 <img  width="140" height="35"  alt="skills I have" src="https://github.com/user-attachments/assets/94643443-aabb-464b-883a-6f1c7219a426" />
 <br><br>
 
-<!--skills -->
+<!--Skills -->
 <p align="left">
 <!-- js -->
   <img alt="Javascript" height="50" title="JS" src="https://github.com/user-attachments/assets/b5cf1dd1-4037-4979-8fe2-80fe1a4ffceb" />
