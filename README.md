@@ -90,7 +90,7 @@
 <img width="156" height="33" alt="Image" src="https://github.com/user-attachments/assets/768e9a22-0594-489c-89b5-296a71b7e1c5" />
 <br><br>
 
-<!--profile views -->
+<!--Profile Views -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-byllzz&color=blueviolet) <br>
 
