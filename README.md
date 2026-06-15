@@ -92,7 +92,7 @@
 </a>
 
 <a href="https://ko-fi.com/byllzz" target="_blank">
-  <img src="https://storage.ko-fi.com/cdn/kofi_stroke.png" alt="Ko-fi" style="height: 40px; border-radius: 12px;" />
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Support me on Ko-fi" style="height: 40px; border-radius: 12px;" />
 </a>
 <br><br>
 <!--Github stats -->
