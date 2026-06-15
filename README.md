@@ -84,9 +84,9 @@
   <!-- netlify-->
   <img  height="48" title="netlify" alt="Netlify" src="https://github.com/user-attachments/assets/4d7a8808-16d1-4b42-83c2-0c8ea4cdf67d" />
 </p>
-<br><br>
-<img width="150" height="33" alt="Image" src="https://github.com/user-attachments/assets/8666789c-3887-42da-a489-8f555caf5a07" />
 <br>
+<img width="150" height="33" alt="Image" src="https://github.com/user-attachments/assets/8666789c-3887-42da-a489-8f555caf5a07" />
+<br><br>
 
 <!--Github stats -->
 <!-- <img width="156" height="33" alt="Image" src="https://github.com/user-attachments/assets/768e9a22-0594-489c-89b5-296a71b7e1c5" /> -->
