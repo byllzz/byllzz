@@ -88,8 +88,9 @@
 <img width="150" height="33" alt="Image" src="https://github.com/user-attachments/assets/8666789c-3887-42da-a489-8f555caf5a07" />
 <br><br>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%F0%9F%8C%8D%20Support%20my%20work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00&color=black)](https://www.buymeacoffee.com/byllzz)
-
+<a href="https://www.buymeacoffee.com/byllzz" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px; width: 174px; border-radius: 12px;" />
+</a>
 <br>
 <!--Github stats -->
 <!-- <img width="156" height="33" alt="Image" src="https://github.com/user-attachments/assets/768e9a22-0594-489c-89b5-296a71b7e1c5" /> -->
