@@ -87,11 +87,11 @@
 <br>
 <img width="150" height="33" alt="Image" src="https://github.com/user-attachments/assets/8666789c-3887-42da-a489-8f555caf5a07" />
 <br><br>
-<a href="https://www.buymeacoffee.com/byllzz" target="_blank">
+<a href="https://www.buymeacoffee.com/bilalmlkdev" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px; width: 174px; border-radius: 12px;" />
 </a>
 &nbsp;
-<a href="https://ko-fi.com/byllzz" target="_blank">
+<a href="https://ko-fi.com/bilalmlkdev" target="_blank">
   <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Support me on Ko-fi" style="height: 40px; border-radius: 6px;" />
 </a>
 <br><br>
@@ -102,7 +102,7 @@
 
 <!--Profile Views -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-byllzz&color=blueviolet) <br>
+![Profile Views](https://komarev.com/ghpvc/?username=byllzz&color=blueviolet) <br>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=byllzz&theme=dark&show_icons=false&include_all_commits=true&count_private=true" alt="byllzz's GitHub stats" />
 
