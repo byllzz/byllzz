@@ -1,4 +1,4 @@
-<!--svg animation with typing effect-->
+<!--Svg animation with typing effect-->
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&width=435&lines=%22Reading,+writing,+and+deploying.%22" alt="Typing SVG" />
 </h2>
