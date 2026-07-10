@@ -87,7 +87,7 @@
 <br>
 <img width="150" height="33" alt="Image" src="https://github.com/user-attachments/assets/8666789c-3887-42da-a489-8f555caf5a07" />
 <br><br>
-<a href="https://www.buymeacoffee.com/bilalmlkdev" target="_blank">
+<a href="https://buymeacoffee.com/bilalmlkdev" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px; width: 174px; border-radius: 12px;" />
 </a>
 &nbsp;
