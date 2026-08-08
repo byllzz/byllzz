@@ -84,16 +84,6 @@
   <!-- netlify-->
   <img  height="48" title="netlify" alt="Netlify" src="https://github.com/user-attachments/assets/4d7a8808-16d1-4b42-83c2-0c8ea4cdf67d" />
 </p>
-<br>
-<img width="150" height="33" alt="Image" src="https://github.com/user-attachments/assets/8666789c-3887-42da-a489-8f555caf5a07" />
-<br><br>
-<a href="https://buymeacoffee.com/bilalmlkdev" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px; width: 174px; border-radius: 12px;" />
-</a>
-&nbsp;
-<a href="https://ko-fi.com/bilalmlkdev" target="_blank">
-  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Support me on Ko-fi" style="height: 40px; border-radius: 6px;" />
-</a>
 <br><br>
 <!--Github stats -->
 <!-- <img width="156" height="33" alt="Image" src="https://github.com/user-attachments/assets/768e9a22-0594-489c-89b5-296a71b7e1c5" /> -->
