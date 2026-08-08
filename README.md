@@ -89,7 +89,7 @@
 <br>
 <!--Github stats -->
 <!-- <img width="156" height="33" alt="Image" src="https://github.com/user-attachments/assets/768e9a22-0594-489c-89b5-296a71b7e1c5" /> -->
-<img width="156" height="33" alt="Image" src="https://github.com/user-attachments/assets/5c58ff11-6e67-4a9f-a5f8-f274f2e0de1c" />
+<img width="156" alt="Image" src="https://github.com/user-attachments/assets/5c58ff11-6e67-4a9f-a5f8-f274f2e0de1c" />
 <br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=byllzz&color=9B72FF) <br>
