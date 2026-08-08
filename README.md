@@ -98,5 +98,6 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byllzz&theme=dark&layout=compact&hide_border=false" alt="byllzz's Top Languages" />
 
-### 🔝 Top Contributed Repo
-![](https://github-readme-stats.vercel.app/api?username=byllzz&theme=dark)
+### 🔝 Top Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=byllzz&layout=compact&theme=dark)
