@@ -62,6 +62,8 @@
   <!--node js -->
 <img  height="50" alt="Node Js" title="node js" src="https://github.com/user-attachments/assets/70190868-7331-47e7-854b-9f70151a391d" />
 <br>
+  <!--typescript-->
+  <img height="50" alt="Typescript logo" src="https://github.com/user-attachments/assets/da18d513-0715-4d3f-9c75-6883f9082495" />
   <!-- material UI-->
   <img  height="50" alt="Material UI" title="material" src="https://github.com/user-attachments/assets/69766c88-8af1-4d50-b28c-6ea8d9c541ed" />
 <!--sass -->
