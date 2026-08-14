@@ -64,10 +64,10 @@
 <br>
   <!--typescript
   <img height="50" width="50" alt="Typescript logo" src="https://github.com/user-attachments/assets/da18d513-0715-4d3f-9c75-6883f9082495" />-->
+  <!--sass -->
+<img title="Sass"  height="47" alt="Sass" src="https://github.com/user-attachments/assets/27be3195-509d-4d03-a1f1-5920775fcfe5" />
   <!-- material UI-->
   <img  height="50" alt="Material UI" title="material" src="https://github.com/user-attachments/assets/69766c88-8af1-4d50-b28c-6ea8d9c541ed" />
-<!--sass -->
-<img title="Sass"  height="47" alt="Sass" src="https://github.com/user-attachments/assets/27be3195-509d-4d03-a1f1-5920775fcfe5" />
 <!--tailwind -->
 <img title="tailwind" height="50" alt="Tailwind Css"src="https://github.com/user-attachments/assets/a9f4b68f-b38e-4c1c-a294-8ad66acdfcc3" />
   <!-- github -->
