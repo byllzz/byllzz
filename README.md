@@ -70,12 +70,10 @@
 <img title="Sass"  height="47" alt="Sass" src="https://github.com/user-attachments/assets/27be3195-509d-4d03-a1f1-5920775fcfe5" />
 <!--tailwind -->
 <img title="tailwind" height="50" alt="Tailwind Css"src="https://github.com/user-attachments/assets/a9f4b68f-b38e-4c1c-a294-8ad66acdfcc3" />
-<br>
   <!-- github -->
   <img  height="50" title="github" alt="Github" src="https://github.com/user-attachments/assets/84820f72-ae55-4962-8447-eee7d1b79a4a" />
   <!-- git -->
   <img height="50" title="git" alt="Git" src="https://github.com/user-attachments/assets/401ebf1e-3515-4527-be46-d225523fa869" />
-  <br>
   <!-- netlify-->
   <img  height="48" title="netlify" alt="Netlify" src="https://github.com/user-attachments/assets/4d7a8808-16d1-4b42-83c2-0c8ea4cdf67d" />
 </p>
