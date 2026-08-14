@@ -26,11 +26,10 @@
 <p align="left">
 <a href="https://wakatime.com/@64a47f57-673b-4f9d-84da-f5d0eb9e1fc5"><img src="https://wakatime.com/badge/user/64a47f57-673b-4f9d-84da-f5d0eb9e1fc5.svg?color=9B72FF" alt="Total time coded since Dec 28 2025" /></a>
 </p>
- 
+ <!-- connect me -->
 <img  width="125" alt="Connect to me" src="https://github.com/user-attachments/assets/94c86d36-35b4-47fb-a37d-f2aee8c059e8" />
 <br> <br> <br>
 <p align="left" style="white-space: wrap;"> 
-  <!-- connect me -->
  <a href="https://www.linkedin.com/in/bilalmlkdev" target="_blank"><img src="https://github.com/user-attachments/assets/d4c229ba-f177-4f0a-82b8-3a2df72acc11" alt="Linkdin" height="50" title="linkedin"></a>
   <a href="mailto:bilalmlkdev@gmail.com" target="_blank"><img src="https://github.com/user-attachments/assets/89830ee9-e13d-4b3a-bc42-31237964e79d" alt="Gmail" height="50" title="Gmail"></a>
   <a href="https://twitter.com/bilalmlkdev" target="_blank"><img src="https://github.com/user-attachments/assets/a2a12479-935d-47d4-8dcd-91ad5a71996d" alt="Twitter" height="50" title="Twitter"></a>
@@ -44,7 +43,6 @@
 <br>
 <img  width="140" alt="skills I have" src="https://github.com/user-attachments/assets/94643443-aabb-464b-883a-6f1c7219a426" />
 <br> <br> <br>
-
 <!--Skills I have -->
 <p align="left">
 <!-- js -->
@@ -60,8 +58,6 @@
   <!--node js -->
 <img  height="50" alt="Node Js" title="node js" src="https://github.com/user-attachments/assets/70190868-7331-47e7-854b-9f70151a391d" />
 <br>
-  <!--typescript
-  <img height="50" width="50" alt="Typescript logo" src="https://github.com/user-attachments/assets/da18d513-0715-4d3f-9c75-6883f9082495" />-->
  <!--sass -->
  &nbsp;<img title="Sass"  height="47" alt="Sass" src="https://github.com/user-attachments/assets/27be3195-509d-4d03-a1f1-5920775fcfe5" />
   <!-- material UI-->
@@ -79,7 +75,7 @@
 <!--Github stats -->
 <!-- <img width="156" height="33" alt="Image" src="https://github.com/user-attachments/assets/768e9a22-0594-489c-89b5-296a71b7e1c5" /> -->
 <img width="156" alt="Image" src="https://github.com/user-attachments/assets/5c58ff11-6e67-4a9f-a5f8-f274f2e0de1c" />
-<br><br>
+<br> <br> <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=byllzz&color=9B72FF) <br>
 
