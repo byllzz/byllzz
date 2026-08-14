@@ -71,13 +71,6 @@
 <!--tailwind -->
 <img title="tailwind" height="50" alt="Tailwind Css"src="https://github.com/user-attachments/assets/a9f4b68f-b38e-4c1c-a294-8ad66acdfcc3" />
 <br>
-  <!-figma 
-  <img  height="50" alt="figma" title="Figma" src="https://github.com/user-attachments/assets/a9f8b1c2-9511-42f8-a758-05a1a5ae856e" />
-  <!-- ps -->
-  <img  height="50" alt="PhotoShop" title="photoshop" src="https://github.com/user-attachments/assets/6d4a61c1-e107-4683-b10e-1684690af1dc" />
-  <!-- ai -->
-  <img  height="50" title="ai" alt="Image" src="https://github.com/user-attachments/assets/5e68e6cd-4ee6-47f3-a057-58d008b5e252" /> -->
-  <br>
   <!-- github -->
   <img  height="50" title="github" alt="Github" src="https://github.com/user-attachments/assets/84820f72-ae55-4962-8447-eee7d1b79a4a" />
   <!-- git -->
