@@ -69,7 +69,7 @@
   <!-- git -->
   <img height="50" title="git" alt="Git" src="https://github.com/user-attachments/assets/401ebf1e-3515-4527-be46-d225523fa869" />
   <!-- netlify-->
-  <img  height="48" title="netlify" alt="Netlify" src="https://github.com/user-attachments/assets/4d7a8808-16d1-4b42-83c2-0c8ea4cdf67d" />
+  <img  height="46" title="netlify" alt="Netlify" src="https://github.com/user-attachments/assets/4d7a8808-16d1-4b42-83c2-0c8ea4cdf67d" />
 </p>
 <br>
 <!--Github stats -->
