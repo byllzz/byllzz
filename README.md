@@ -3,12 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&width=435&lines=%22Reading,+writing,+and+deploying.%22" alt="Typing SVG" />
 </h2>
 
-<!--About me -->
+<!--About me-->
 <a href="#" target="_blank" align="left"><img width="128"  alt="who I am" src="https://github.com/user-attachments/assets/e94abb1b-85b8-4f39-9861-6a8920058fd0" /></a>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=byllzz&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/byllzz)
 
-<!--who I am  -->
+<!--who I am -->
 <p align="left">
 <img  width="200" align="left"  src="https://github.com/user-attachments/assets/7684816c-2bfb-447e-a894-c8bd4d3a6547" />
   </p>
