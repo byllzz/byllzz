@@ -56,6 +56,7 @@
 <img src="https://github.com/user-attachments/assets/ac7449f7-4cb2-4a5b-a762-ec92c02995ad" alt="GIT" height="50" title="GIT">
 
 <br>
+<img src="https://github.com/user-attachments/assets/e456000a-5fb3-4b6a-94ff-9a26262006e8" alt="SHADCN" height="50" title="SHADCN">
 <img src="https://github.com/user-attachments/assets/e0a7fd6a-c68e-4e04-b59d-0d410cee3cdd" alt="NETLIFY" height="50" title="NETLIFY">
 
 <br><br>
