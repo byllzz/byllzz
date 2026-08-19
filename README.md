@@ -61,7 +61,7 @@
 <img src="https://github.com/user-attachments/assets/8e5a52d4-5ad0-4e9a-aa32-7ef78fe2077c" alt="SHADCN" height="50" title="SHADCN">
 <img src="https://github.com/user-attachments/assets/419ae345-2b57-428c-8519-4af137a25354" alt="NETLIFY" height="50" title="NETLIFY">
 <img src="https://github.com/user-attachments/assets/b389aeef-c171-43d0-9e62-24b650054ab5" alt="WEBPACK" height="50" title="WEBPACK">
-<img src="https://github.com/user-attachments/assets/0aa24f04-bbaf-4fe6-9630-8e365ecf5c75" alt="VITE" height="50" title="VITE">
+<img src="https://github.com/user-attachments/assets/ff8c7b57-a910-4338-a2fb-f1d68b50b5a0" alt="VITE" height="50" title="VITE">
 <img src="https://github.com/user-attachments/assets/e104a4b7-059b-4291-9af3-bd26cb045894" alt="BABEL" height="50" title="BABEL">
 
 <br><br>
@@ -79,9 +79,9 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byllzz&theme=dark&layout=compact&hide_border=false" alt="byllzz's Top Languages" />
 
-
+<!--
 ### Contribution Activity
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=byllzz&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
-</a>
+</a> -->
 
