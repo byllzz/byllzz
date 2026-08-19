@@ -81,5 +81,5 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-readme-stats.vercel.app/api?username=byllzz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=byllzz&repo=YOUR_REPO_NAME&theme=dark&hide_border=true" alt="Top Contributed Repo" />
 
