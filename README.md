@@ -41,7 +41,7 @@
 <br><br><br>
 
 <img src="https://github.com/user-attachments/assets/6ee37aee-0187-4de2-938a-5d39df433efc" alt="CSS3" height="50" title="CSS3">
-<img src="https://github.com/user-attachments/assets/5af996d2-dbb8-4149-b198-252691a6600e" alt="HTML5" height="50" title="HTML5">
+<img src="https://github.com/user-attachments/assets/f4a5d52f-7d62-4ae5-b3bd-9f83adde1dd2" alt="HTML5" height="50" title="HTML5">
 <img src="https://github.com/user-attachments/assets/9542c0e7-c783-4896-bb05-d6ce6163987c" alt="Javascript" height="50" title="JS">
 <img src="https://github.com/user-attachments/assets/ae704064-27be-496c-b887-77306f2a01f7" alt="ASTRO" height="50" title="ASTRO">
 <img src="https://github.com/user-attachments/assets/b086b8a2-bd40-40d9-9395-68e95cd85dd7" alt="REACT" height="50" title="REACT">
