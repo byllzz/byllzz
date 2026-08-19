@@ -48,7 +48,7 @@
 <img src="https://github.com/user-attachments/assets/011b2517-37ea-432a-9301-d2d23eea8642" alt="NODEJS" height="50" title="NODE JS">
 
 <br>
-<img src="https://github.com/user-attachments/assets/0e5fd99d-b0a2-4f77-ae4c-d0173aad1dc9" alt="CONTENTFUL" height="50" title="CONTENTFULCMS">
+<img src="https://github.com/user-attachments/assets/111bd72f-ecd1-4730-ad82-0e3b56e5320b" alt="BUN" height="50" title="BUN">
 <img src="https://github.com/user-attachments/assets/6a631a5e-57ea-4836-93fa-ed0582fd2d7d" alt="TINACMS" height="50" title="TINACMS">
 <img src="https://github.com/user-attachments/assets/29cc179c-44b0-4f82-9f7a-f8d92cf8eb42" alt="FIGMA" height="50" title="FIGMA">
 <img src="https://github.com/user-attachments/assets/f916ea58-e00e-4825-b143-49a79d8dea24" alt="TYPESCRIPT" height="50" title="TYPESCRIPT">
