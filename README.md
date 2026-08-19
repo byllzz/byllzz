@@ -67,7 +67,7 @@
 <br><br>
 <img width="150" alt="SUPPORTMe 21" src="https://github.com/user-attachments/assets/c33d7c32-bda0-4c52-bcba-2174893e5c32">
 <br><br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I2VPYED)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3J821G4F6)
 <br><br>
 <img align="left" width="156" alt="Frame 23" src="https://github.com/user-attachments/assets/5c58ff11-6e67-4a9f-a5f8-f274f2e0de1c">
 
