@@ -40,12 +40,13 @@
 <img width="137" alt="Skills I have" src="https://github.com/user-attachments/assets/37646e57-6e67-4dc9-b186-e6b0cf04a5cc">
 <br><br><br>
 
-<img src="https://github.com/user-attachments/assets/6ee37aee-0187-4de2-938a-5d39df433efc" alt="CSS" height="50" title="CSS">
+<img src="https://github.com/user-attachments/assets/6ee37aee-0187-4de2-938a-5d39df433efc" alt="CSS3" height="50" title="CSS3">
+<img src="https://github.com/user-attachments/assets/5af996d2-dbb8-4149-b198-252691a6600e" alt="HTML5" height="50" title="HTML5">
 <img src="https://github.com/user-attachments/assets/9542c0e7-c783-4896-bb05-d6ce6163987c" alt="Javascript" height="50" title="JS">
 <img src="https://github.com/user-attachments/assets/ae704064-27be-496c-b887-77306f2a01f7" alt="ASTRO" height="50" title="ASTRO">
 <img src="https://github.com/user-attachments/assets/b086b8a2-bd40-40d9-9395-68e95cd85dd7" alt="REACT" height="50" title="REACT">
 <img src="https://github.com/user-attachments/assets/6ab6adb0-57c3-48d0-bc4f-c3d376438674" alt="NEXTJS" height="50" title="NEXTJS">
-<img src="https://github.com/user-attachments/assets/011b2517-37ea-432a-9301-d2d23eea8642" alt="NODEJS" height="50" title="NODE JS">
+
 
 <br>
 <img src="https://github.com/user-attachments/assets/111bd72f-ecd1-4730-ad82-0e3b56e5320b" alt="BUN" height="50" title="BUN">
