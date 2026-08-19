@@ -56,7 +56,7 @@
 <img src="https://github.com/user-attachments/assets/f2ee274a-06e7-41cd-9eb3-a02ea8b76a40" alt="GIT" height="50" title="GIT">
 
 <br>
-<img src="https://github.com/user-attachments/assets/99f4f5de-4f2d-42fe-a2f3-82c561c77ecb" alt="NETLIFY" height="50" title="NETLIFY">
+<img src="https://github.com/user-attachments/assets/79458001-fb18-4053-a6ed-cd7822135b5b" alt="NETLIFY" height="50" title="NETLIFY">
 
 <br><br>
 <img width="150" alt="SUPPORTMe 21" src="https://github.com/user-attachments/assets/c33d7c32-bda0-4c52-bcba-2174893e5c32">
