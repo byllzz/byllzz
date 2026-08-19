@@ -80,6 +80,8 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byllzz&theme=dark&layout=compact&hide_border=false" alt="byllzz's Top Languages" />
 
 
-### 🔝 Top Contributed Repo
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=byllzz&repo=YOUR_REPO_NAME&theme=dark&hide_border=true" alt="Top Contributed Repo" />
+### Contribution Activity
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=byllzz&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
+</a>
 
