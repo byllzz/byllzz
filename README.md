@@ -10,7 +10,7 @@
 
 <!--who I am -->
 <p align="left">
-<img  width="200" align="left"  src="https://github.com/user-attachments/assets/7684816c-2bfb-447e-a894-c8bd4d3a6547" />
+<img  width="200" align="left" src="https://github.com/user-attachments/assets/b0b1a1c8-7ceb-4211-823f-5409cffe0b63" />
   </p>
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
