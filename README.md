@@ -57,7 +57,7 @@
 
 <br>
 <img src="https://github.com/user-attachments/assets/8e5a52d4-5ad0-4e9a-aa32-7ef78fe2077c" alt="SHADCN" height="50" title="SHADCN">
-<img src="https://github.com/user-attachments/assets/53328406-11b0-4576-b65f-9ffd1292b183" alt="SCSS" height="50" title="SCSS">
+<img src="https://github.com/user-attachments/assets/549d4b91-475b-4c6e-9b87-b61bd68c3800" alt="SCSS" height="50" title="SCSS">
 <img src="https://github.com/user-attachments/assets/e0a7fd6a-c68e-4e04-b59d-0d410cee3cdd" alt="NETLIFY" height="50" title="NETLIFY">
 
 <br><br>
