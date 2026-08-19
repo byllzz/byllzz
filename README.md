@@ -30,7 +30,7 @@
 <img  width="125" alt="Connect to me" src="https://github.com/user-attachments/assets/94c86d36-35b4-47fb-a37d-f2aee8c059e8" />
 <br> <br> <br>
 <p align="left" style="white-space: wrap;"> 
- <a href="https://www.linkedin.com/in/bilalmlkdev" target="_blank"><img src="https://github.com/user-attachments/assets/d4c229ba-f177-4f0a-82b8-3a2df72acc11" alt="Linkdin" height="50" title="linkedin"></a>
+ <a href="https://www.linkedin.com/in/bilalmlkdev" target="_blank"><img src="https://github.com/user-attachments/assets/c26a1404-54a5-4e4f-b195-1bca63193621" alt="Linkdin" height="50" title="linkedin"></a>
   <a href="mailto:bilalmlkdev@gmail.com" target="_blank"><img src="https://github.com/user-attachments/assets/89830ee9-e13d-4b3a-bc42-31237964e79d" alt="Gmail" height="50" title="Gmail"></a>
   <a href="https://twitter.com/bilalmlkdev" target="_blank"><img src="https://github.com/user-attachments/assets/a2a12479-935d-47d4-8dcd-91ad5a71996d" alt="Twitter" height="50" title="Twitter"></a>
  <a href="https://www.instagram.com/bilalmlkdev" target="_blank"><img src="https://github.com/user-attachments/assets/4b7367e0-1341-4c03-85e8-e06de8008f2d" alt="Instagram" height="50" title="Instagram"></a>
