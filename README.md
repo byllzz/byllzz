@@ -52,7 +52,7 @@
 <img src="https://github.com/user-attachments/assets/6a631a5e-57ea-4836-93fa-ed0582fd2d7d" alt="TINACMS" height="50" title="TINACMS">
 <img src="https://github.com/user-attachments/assets/29cc179c-44b0-4f82-9f7a-f8d92cf8eb42" alt="FIGMA" height="50" title="FIGMA">
 <img src="https://github.com/user-attachments/assets/badef742-40db-4ff3-9a1d-dcc93ac396aa" alt="GITHUB" height="50" title="GITHUB">
-<img src="https://github.com/user-attachments/assets/538bc86b-1fd1-40bc-bd3f-2ee29efa3c7e" alt="GIT" height="50" title="GIT">
+<img src="https://github.com/user-attachments/assets/f2ee274a-06e7-41cd-9eb3-a02ea8b76a40" alt="GIT" height="50" title="GIT">
 <img src="https://github.com/user-attachments/assets/99f4f5de-4f2d-42fe-a2f3-82c561c77ecb" alt="NETLIFY" height="50" title="NETLIFY">
 
 <br><br>
