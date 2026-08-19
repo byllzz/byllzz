@@ -37,7 +37,7 @@
   <a href="https://uiverse.io/profile/byllzz" target="_blank"><img  src="https://github.com/user-attachments/assets/c77330b3-d1a3-425c-a84f-781a2994602a" alt="uiverse" height="50" title="Uiverse"></a>
  <a href="https://codepen.io/bilalmlkdev" target="_blank"><img src="https://github.com/user-attachments/assets/2e2c12d0-8674-46fb-b70a-df9f2e0b1771" alt="Codepen" height="50" title="Codepen"></a>
 <a href="https://bilalmlkdev.vercel.app/" target="_blank">
-  <img  width="50" alt="Personal Avatar" src=" https://github.com/user-attachments/assets/d7a87bda-bf8f-4b60-959c-f8fc385bc56b" />
+  <img  width="50" alt="Personal Avatar" src="https://github.com/user-attachments/assets/bf618cb0-dfe9-4a66-ba7d-a96fb866ade1" />
 </a>
 </p>
 <br>
