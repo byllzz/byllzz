@@ -53,10 +53,10 @@
 <img src="https://github.com/user-attachments/assets/29cc179c-44b0-4f82-9f7a-f8d92cf8eb42" alt="FIGMA" height="50" title="FIGMA">
 <img src="https://github.com/user-attachments/assets/f916ea58-e00e-4825-b143-49a79d8dea24" alt="TYPESCRIPT" height="50" title="TYPESCRIPT">
 <img src="https://github.com/user-attachments/assets/badef742-40db-4ff3-9a1d-dcc93ac396aa" alt="GITHUB" height="50" title="GITHUB">
-<img src="https://github.com/user-attachments/assets/e0a7fd6a-c68e-4e04-b59d-0d410cee3cdd" alt="NETLIFY" height="50" title="NETLIFY">
+<img src="https://github.com/user-attachments/assets/ac7449f7-4cb2-4a5b-a762-ec92c02995ad" alt="GIT" height="50" title="GIT">
 
 <br>
-<img src="https://github.com/user-attachments/assets/f2ee274a-06e7-41cd-9eb3-a02ea8b76a40" alt="GIT" height="50" title="GIT">
+<img src="https://github.com/user-attachments/assets/e0a7fd6a-c68e-4e04-b59d-0d410cee3cdd" alt="NETLIFY" height="50" title="NETLIFY">
 
 <br><br>
 <img width="150" alt="SUPPORTMe 21" src="https://github.com/user-attachments/assets/c33d7c32-bda0-4c52-bcba-2174893e5c32">
