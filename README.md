@@ -51,7 +51,7 @@
 <img src="https://github.com/user-attachments/assets/0e5fd99d-b0a2-4f77-ae4c-d0173aad1dc9" alt="CONTENTFUL" height="50" title="CONTENTFULCMS">
 <img src="https://github.com/user-attachments/assets/6a631a5e-57ea-4836-93fa-ed0582fd2d7d" alt="TINACMS" height="50" title="TINACMS">
 <img src="https://github.com/user-attachments/assets/29cc179c-44b0-4f82-9f7a-f8d92cf8eb42" alt="FIGMA" height="50" title="FIGMA">
-<img src="https://github.com/user-attachments/assets/bb428e4d-7a24-4678-85cc-19338c611a09" alt="FIGMA" height="50" title="TYPESCRIPT">
+<img src="https://github.com/user-attachments/assets/9da55947-67a2-49b4-8c40-1422960e19fb" alt="TYPESCRIPT" height="50" title="TYPESCRIPT">
 <img src="https://github.com/user-attachments/assets/badef742-40db-4ff3-9a1d-dcc93ac396aa" alt="GITHUB" height="50" title="GITHUB">
 <img src="https://github.com/user-attachments/assets/f2ee274a-06e7-41cd-9eb3-a02ea8b76a40" alt="GIT" height="50" title="GIT">
 <img src="https://github.com/user-attachments/assets/99f4f5de-4f2d-42fe-a2f3-82c561c77ecb" alt="NETLIFY" height="50" title="NETLIFY">
