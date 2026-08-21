@@ -46,6 +46,7 @@
 <img src="https://github.com/user-attachments/assets/ae704064-27be-496c-b887-77306f2a01f7" alt="ASTRO" height="50" title="ASTRO">
 <img src="https://github.com/user-attachments/assets/b086b8a2-bd40-40d9-9395-68e95cd85dd7" alt="REACT" height="50" title="REACT">
 <img src="https://github.com/user-attachments/assets/6ab6adb0-57c3-48d0-bc4f-c3d376438674" alt="NEXTJS" height="50" title="NEXTJS">
+<img src="https://github.com/user-attachments/assets/549d4b91-475b-4c6e-9b87-b61bd68c3800" alt="SCSS" height="50" title="SCSS">
 
 
 <br>
@@ -56,13 +57,15 @@
 <img src="https://github.com/user-attachments/assets/badef742-40db-4ff3-9a1d-dcc93ac396aa" alt="GITHUB" height="50" title="GITHUB">
 <img src="https://github.com/user-attachments/assets/ac7449f7-4cb2-4a5b-a762-ec92c02995ad" alt="GIT" height="50" title="GIT">
 
-<br>
+<img src="https://github.com/user-attachments/assets/8e5a52d4-5ad0-4e9a-aa32-7ef78fe2077c" alt="SHADCN" height="50" title="SHADCN">
+
+<!--<br>
 <img src="https://github.com/user-attachments/assets/549d4b91-475b-4c6e-9b87-b61bd68c3800" alt="SCSS" height="50" title="SCSS">
 <img src="https://github.com/user-attachments/assets/8e5a52d4-5ad0-4e9a-aa32-7ef78fe2077c" alt="SHADCN" height="50" title="SHADCN">
 <img src="https://github.com/user-attachments/assets/419ae345-2b57-428c-8519-4af137a25354" alt="NETLIFY" height="50" title="NETLIFY">
 <img src="https://github.com/user-attachments/assets/b389aeef-c171-43d0-9e62-24b650054ab5" alt="WEBPACK" height="50" title="WEBPACK">
 <img src="https://github.com/user-attachments/assets/ff8c7b57-a910-4338-a2fb-f1d68b50b5a0" alt="VITE" height="50" title="VITE">
-<img src="https://github.com/user-attachments/assets/e104a4b7-059b-4291-9af3-bd26cb045894" alt="BABEL" height="50" title="BABEL">
+<img src="https://github.com/user-attachments/assets/e104a4b7-059b-4291-9af3-bd26cb045894" alt="BABEL" height="50" title="BABEL"> -->
 
 <br><br>
 <img width="150" alt="SUPPORTMe 21" src="https://github.com/user-attachments/assets/c33d7c32-bda0-4c52-bcba-2174893e5c32">
