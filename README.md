@@ -50,11 +50,11 @@
 
 
 <br>
-<img src="https://github.com/user-attachments/assets/3625886f-c29e-4af4-a67e-3cf4d75f59e6" alt="TAILWINDCSS" height="50" title="TAILWINDCSS">
 <img src="https://github.com/user-attachments/assets/29cc179c-44b0-4f82-9f7a-f8d92cf8eb42" alt="FIGMA" height="50" title="FIGMA">
 <img src="https://github.com/user-attachments/assets/f916ea58-e00e-4825-b143-49a79d8dea24" alt="TYPESCRIPT" height="50" title="TYPESCRIPT">
 <img src="https://github.com/user-attachments/assets/badef742-40db-4ff3-9a1d-dcc93ac396aa" alt="GITHUB" height="50" title="GITHUB">
 <img src="https://github.com/user-attachments/assets/ac7449f7-4cb2-4a5b-a762-ec92c02995ad" alt="GIT" height="50" title="GIT">
+<img src="https://github.com/user-attachments/assets/3625886f-c29e-4af4-a67e-3cf4d75f59e6" alt="TAILWINDCSS" height="50" title="TAILWINDCSS">
 <img src="https://github.com/user-attachments/assets/111bd72f-ecd1-4730-ad82-0e3b56e5320b" alt="BUN" height="50" title="BUN">
 <img src="https://github.com/user-attachments/assets/8e5a52d4-5ad0-4e9a-aa32-7ef78fe2077c" alt="SHADCN" height="50" title="SHADCN">
 
